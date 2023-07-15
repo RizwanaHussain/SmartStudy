@@ -1,0 +1,1003 @@
+student_id,gender,grade,parent_education,lunch,available_device,work_completion,math,science,social,average,Tier
+GR8001,female,8,bachelor degree,standard,laptop,incomplete,72,72,74,73,Tire 1
+GR9001,female,9,primary school,standard,android_device,completed,69,90,88,82,Tire 1
+GR8002,female,8,master degree,standard,laptop,incomplete,90,95,93,93,Tire 1
+GR7001,female,7,master degree,standard,laptop,incomplete,50,53,58,54,Tire 2
+GR9002,female,9,middle school,standard,laptop,incomplete,69,75,78,74,Tire 1
+GR8003,female,8,diploma,standard,laptop,incomplete,71,83,78,77,Tire 1
+GR8004,female,8,primary school,standard,android_device,completed,88,95,92,92,Tire 1
+GR8005,female,8,high school,free/reduced,laptop,incomplete,38,60,50,49,Tire 2
+GR10001,female,10,master degree,standard,laptop,completed,62,70,75,69,Tire 2
+GR8006,female,8,high school,standard,laptop,incomplete,65,81,73,73,Tire 1
+GR9003,female,9,diploma,free/reduced,laptop,incomplete,54,58,61,58,Tire 2
+GR10002,female,10,primary school,standard,laptop,incomplete,69,74,74,72,Tire 1
+GR8007,female,8,middle school,free/reduced,laptop,incomplete,18,32,28,26,Tire 3
+GR7002,female,7,master degree,free/reduced,laptop,completed,56,72,65,64,Tire 2
+GR7003,female,7,diploma,free/reduced,laptop,incomplete,50,56,54,53,Tire 2
+GR9004,female,9,middle school,standard,laptop,incomplete,69,73,73,72,Tire 1
+GR9005,female,9,bachelor degree,standard,laptop,incomplete,67,69,75,70,Tire 1
+GR8008,female,8,primary school,free/reduced,android_device,incomplete,65,75,70,70,Tire 2
+GR9006,female,9,diploma,standard,laptop,completed,58,73,68,66,Tire 2
+GR9007,female,9,high school,standard,laptop,incomplete,66,71,76,71,Tire 1
+GR10003,female,10,diploma,standard,laptop,incomplete,74,81,83,79,Tire 1
+GR8009,female,8,primary school,standard,laptop,completed,63,65,61,63,Tire 2
+GR10004,female,10,middle school,free/reduced,laptop,incomplete,50,64,59,58,Tire 2
+GR9008,female,9,middle school,free/reduced,android_device,incomplete,71,84,87,81,Tire 1
+GR10005,female,10,diploma,free/reduced,android_device,completed,75,90,88,84,Tire 1
+GR7004,female,7,diploma,standard,android_device,incomplete,55,65,62,61,Tire 2
+GR8010,female,8,diploma,standard,laptop,incomplete,53,58,65,59,Tire 2
+GR9009,female,9,high school,free/reduced,laptop,incomplete,33,41,43,39,Tire 3
+GR9010,female,9,middle school,free/reduced,laptop,incomplete,0,17,10,9,Tire 3
+GR10006,female,10,diploma,free/reduced,android_device,incomplete,57,74,76,69,Tire 2
+GR10007,female,10,middle school,standard,laptop,incomplete,59,58,59,59,Tire 2
+GR8011,female,8,diploma,standard,laptop,incomplete,47,49,50,49,Tire 2
+GR7005,female,7,diploma,standard,android_device,incomplete,82,85,86,84,Tire 1
+GR10008,female,10,primary school,free/reduced,android_device,incomplete,58,63,73,65,Tire 2
+GR7006,female,7,diploma,free/reduced,laptop,incomplete,41,51,48,47,Tire 2
+GR7007,female,7,master degree,standard,laptop,completed,62,68,68,66,Tire 2
+GR10009,female,10,middle school,standard,android_device,incomplete,61,74,72,69,Tire 2
+GR10010,female,10,diploma,standard,laptop,incomplete,71,71,74,72,Tire 1
+GR10011,female,10,middle school,standard,laptop,completed,73,86,82,80,Tire 1
+GR8012,female,8,primary school,standard,laptop,incomplete,79,86,92,86,Tire 1
+GR9011,female,9,diploma,standard,laptop,incomplete,69,80,71,73,Tire 1
+GR9012,female,9,primary school,standard,laptop,incomplete,60,72,74,69,Tire 2
+GR8013,female,8,diploma,free/reduced,laptop,incomplete,52,76,70,66,Tire 2
+GR8014,female,8,middle school,standard,laptop,completed,70,64,72,69,Tire 2
+GR7008,female,7,primary school,standard,laptop,incomplete,58,70,67,65,Tire 2
+GR8015,female,8,bachelor degree,free/reduced,laptop,incomplete,75,85,82,81,Tire 1
+GR7009,female,7,primary school,standard,android_device,completed,63,72,70,68,Tire 2
+GR9013,female,9,diploma,standard,laptop,incomplete,39,64,57,53,Tire 2
+GR10012,female,10,primary school,free/reduced,laptop,completed,58,67,62,62,Tire 2
+GR9014,female,9,primary school,standard,laptop,completed,73,80,82,78,Tire 1
+GR7010,female,7,bachelor degree,standard,android_device,incomplete,99,100,100,100,Tire 1
+GR7011,female,7,bachelor degree,standard,laptop,completed,51,49,51,50,Tire 2
+GR9015,female,9,primary school,free/reduced,laptop,incomplete,76,83,88,82,Tire 1
+GR10013,female,10,bachelor degree,standard,laptop,incomplete,65,67,62,65,Tire 2
+GR9016,female,9,bachelor degree,standard,laptop,completed,65,72,74,70,Tire 1
+GR9017,female,9,primary school,standard,laptop,incomplete,58,67,72,66,Tire 2
+GR7012,female,7,primary school,free/reduced,android_device,completed,42,55,54,50,Tire 2
+GR10014,female,10,diploma,standard,laptop,incomplete,85,91,89,88,Tire 1
+GR10015,female,10,master degree,standard,laptop,completed,87,100,100,96,Tire 1
+GR9018,female,9,primary school,standard,laptop,incomplete,55,69,65,63,Tire 2
+GR7013,female,7,high school,free/reduced,android_device,completed,66,74,78,73,Tire 1
+GR7014,female,7,primary school,free/reduced,android_device,incomplete,75,88,85,83,Tire 1
+GR7015,female,7,master degree,standard,laptop,incomplete,81,92,91,88,Tire 1
+GR9019,female,9,bachelor degree,standard,android_device,incomplete,79,92,89,87,Tire 1
+GR10016,female,10,diploma,free/reduced,android_device,incomplete,77,89,98,88,Tire 1
+GR8016,female,8,high school,standard,laptop,incomplete,87,95,86,89,Tire 1
+GR10017,female,10,primary school,standard,laptop,incomplete,51,58,54,54,Tire 2
+GR9020,female,9,primary school,standard,android_device,incomplete,88,93,93,91,Tire 1
+GR8017,female,8,diploma,standard,android_device,incomplete,59,70,66,65,Tire 2
+GR9021,female,9,primary school,standard,android_device,incomplete,75,81,84,80,Tire 1
+GR10018,female,10,bachelor degree,standard,laptop,completed,78,82,79,80,Tire 1
+GR10019,female,10,middle school,standard,laptop,completed,51,63,61,58,Tire 2
+GR7016,female,7,high school,standard,laptop,incomplete,50,50,47,49,Tire 2
+GR9022,female,9,diploma,standard,laptop,incomplete,59,66,67,64,Tire 2
+GR9023,female,9,primary school,free/reduced,laptop,incomplete,59,62,64,62,Tire 2
+GR8018,female,8,diploma,standard,android_device,incomplete,61,86,87,78,Tire 1
+GR7017,female,7,diploma,standard,laptop,incomplete,66,65,69,67,Tire 2
+GR7018,female,7,diploma,free/reduced,android_device,completed,83,86,88,86,Tire 1
+GR10020,female,10,middle school,standard,laptop,completed,76,72,71,73,Tire 1
+GR7019,female,7,master degree,free/reduced,laptop,incomplete,45,56,54,52,Tire 2
+GR8019,female,8,master degree,free/reduced,android_device,incomplete,58,76,78,71,Tire 1
+GR8020,female,8,high school,standard,android_device,incomplete,68,83,78,76,Tire 1
+GR7020,female,7,bachelor degree,standard,laptop,completed,80,83,83,82,Tire 1
+GR7021,female,7,primary school,standard,laptop,incomplete,62,73,70,68,Tire 2
+GR10021,female,10,bachelor degree,standard,android_device,incomplete,68,75,81,75,Tire 1
+GR9024,female,9,primary school,free/reduced,laptop,incomplete,22,39,33,31,Tire 3
+GR9025,female,9,primary school,standard,android_device,incomplete,70,89,88,82,Tire 1
+GR10022,female,10,primary school,standard,laptop,incomplete,79,86,81,82,Tire 1
+GR7022,female,7,high school,standard,laptop,incomplete,99,93,90,94,Tire 1
+GR10023,female,10,middle school,standard,android_device,incomplete,97,100,100,99,Tire 1
+GR9026,female,9,bachelor degree,standard,android_device,incomplete,96,100,100,99,Tire 1
+GR9027,female,9,primary school,free/reduced,android_device,incomplete,67,75,70,71,Tire 1
+GR9028,female,9,diploma,standard,laptop,incomplete,63,67,70,67,Tire 2
+GR9029,female,9,bachelor degree,free/reduced,android_device,completed,43,51,54,49,Tire 2
+GR8021,female,8,high school,free/reduced,android_device,incomplete,46,54,58,53,Tire 2
+GR9030,female,9,master degree,standard,android_device,completed,81,91,87,86,Tire 1
+GR8022,female,8,master degree,free/reduced,android_device,completed,52,70,62,61,Tire 2
+GR7023,female,7,primary school,free/reduced,laptop,completed,71,76,70,72,Tire 1
+GR10024,female,10,diploma,standard,laptop,incomplete,65,69,70,68,Tire 2
+GR10025,female,10,primary school,free/reduced,laptop,incomplete,65,81,77,74,Tire 1
+GR8023,female,8,middle school,standard,laptop,incomplete,62,64,66,64,Tire 2
+GR10026,female,10,high school,standard,android_device,completed,56,68,74,66,Tire 2
+GR10027,female,10,middle school,standard,android_device,incomplete,64,60,74,66,Tire 2
+GR8024,female,8,primary school,free/reduced,laptop,completed,45,53,55,51,Tire 2
+GR9031,female,9,diploma,standard,android_device,completed,71,77,77,75,Tire 1
+GR9032,female,9,primary school,free/reduced,laptop,incomplete,46,64,66,59,Tire 2
+GR10028,female,10,high school,standard,laptop,incomplete,56,52,55,54,Tire 2
+GR7024,female,7,high school,standard,android_device,completed,59,63,75,66,Tire 2
+GR8025,female,8,bachelor degree,free/reduced,laptop,incomplete,78,79,76,78,Tire 1
+GR8026,female,8,diploma,standard,laptop,incomplete,57,69,68,65,Tire 2
+GR10029,female,10,primary school,free/reduced,laptop,completed,71,83,83,79,Tire 1
+GR9033,female,9,bachelor degree,standard,laptop,incomplete,77,88,87,84,Tire 1
+GR7025,female,7,bachelor degree,standard,laptop,incomplete,65,73,75,71,Tire 1
+GR10030,female,10,high school,standard,laptop,incomplete,69,72,77,73,Tire 1
+GR7026,female,7,high school,standard,laptop,completed,75,86,79,80,Tire 1
+GR9034,female,9,master degree,standard,android_device,incomplete,69,84,85,79,Tire 1
+GR8027,female,8,primary school,free/reduced,laptop,incomplete,74,81,76,77,Tire 1
+GR10031,female,10,diploma,standard,android_device,incomplete,88,92,95,92,Tire 1
+GR10032,female,10,diploma,free/reduced,laptop,incomplete,47,53,58,53,Tire 2
+GR9035,female,9,diploma,standard,android_device,incomplete,67,84,86,79,Tire 1
+GR9036,female,9,high school,free/reduced,laptop,completed,42,62,60,55,Tire 2
+GR8028,female,8,primary school,free/reduced,laptop,completed,58,61,66,62,Tire 2
+GR9037,female,9,high school,free/reduced,laptop,completed,34,42,39,38,Tire 3
+GR10033,female,10,primary school,standard,laptop,incomplete,65,70,71,69,Tire 2
+GR7027,female,7,middle school,free/reduced,laptop,incomplete,44,64,58,55,Tire 2
+GR8029,female,8,diploma,standard,android_device,incomplete,52,66,73,64,Tire 2
+GR8030,female,8,bachelor degree,standard,laptop,incomplete,67,86,83,79,Tire 1
+GR10034,female,10,bachelor degree,free/reduced,laptop,completed,73,79,84,79,Tire 1
+GR10035,female,10,primary school,free/reduced,android_device,incomplete,70,78,78,75,Tire 1
+GR7028,female,7,middle school,standard,laptop,incomplete,71,83,77,77,Tire 1
+GR10036,female,10,high school,free/reduced,laptop,incomplete,49,57,52,53,Tire 2
+GR9038,female,9,middle school,free/reduced,laptop,completed,55,65,62,61,Tire 2
+GR7029,female,7,middle school,free/reduced,laptop,completed,38,49,45,44,Tire 2
+GR9039,female,9,primary school,standard,laptop,completed,72,72,71,72,Tire 1
+GR10037,female,10,master degree,standard,android_device,completed,77,82,91,83,Tire 1
+GR9040,female,9,primary school,standard,android_device,incomplete,88,95,94,92,Tire 1
+GR8031,female,8,high school,standard,android_device,completed,58,70,68,65,Tire 2
+GR7030,female,7,middle school,free/reduced,laptop,incomplete,38,43,43,41,Tire 2
+GR9041,female,9,diploma,free/reduced,laptop,incomplete,64,73,68,68,Tire 2
+GR10038,female,10,diploma,free/reduced,laptop,completed,56,65,63,61,Tire 2
+GR10039,female,10,middle school,free/reduced,android_device,incomplete,35,55,60,50,Tire 2
+GR9042,female,9,master degree,free/reduced,android_device,incomplete,65,81,81,76,Tire 1
+GR7031,female,7,primary school,standard,laptop,completed,67,76,75,73,Tire 1
+GR7032,female,7,bachelor degree,standard,laptop,incomplete,64,73,70,69,Tire 2
+GR10040,female,10,primary school,standard,laptop,incomplete,80,90,89,86,Tire 1
+GR9043,female,9,middle school,free/reduced,android_device,incomplete,64,79,77,73,Tire 1
+GR8032,female,8,high school,standard,laptop,incomplete,65,64,62,64,Tire 2
+GR9044,female,9,middle school,free/reduced,laptop,incomplete,44,50,51,48,Tire 2
+GR10041,female,10,middle school,free/reduced,laptop,completed,27,34,32,31,Tire 3
+GR7033,female,7,primary school,free/reduced,laptop,completed,49,65,55,56,Tire 2
+GR7034,female,7,middle school,standard,android_device,completed,59,85,80,75,Tire 1
+GR7035,female,7,middle school,free/reduced,laptop,incomplete,47,59,50,52,Tire 2
+GR8033,female,8,middle school,standard,android_device,completed,60,70,70,67,Tire 2
+GR10042,female,10,middle school,standard,laptop,incomplete,73,84,85,81,Tire 1
+GR10043,female,10,primary school,standard,android_device,incomplete,82,97,96,92,Tire 1
+GR9045,female,9,bachelor degree,standard,laptop,completed,63,75,81,73,Tire 1
+GR7036,female,7,middle school,free/reduced,laptop,completed,59,73,69,67,Tire 2
+GR8034,female,8,primary school,standard,laptop,incomplete,70,75,78,74,Tire 1
+GR8035,female,8,middle school,standard,laptop,completed,37,46,46,43,Tire 2
+GR10044,female,10,bachelor degree,standard,laptop,incomplete,59,70,73,67,Tire 2
+GR8036,female,8,middle school,standard,laptop,completed,67,89,82,79,Tire 1
+GR7037,female,7,primary school,standard,laptop,completed,100,92,97,96,Tire 1
+GR8037,female,8,diploma,free/reduced,laptop,incomplete,53,71,67,64,Tire 2
+GR9046,female,9,middle school,standard,android_device,incomplete,85,92,93,90,Tire 1
+GR7038,female,7,bachelor degree,standard,laptop,incomplete,100,100,100,100,Tire 1
+GR9047,female,9,middle school,free/reduced,laptop,completed,65,86,80,77,Tire 1
+GR9048,female,9,diploma,standard,android_device,completed,67,84,81,77,Tire 1
+GR8038,female,8,diploma,standard,laptop,completed,73,76,80,76,Tire 1
+GR8039,female,8,middle school,standard,laptop,completed,41,55,51,49,Tire 2
+GR9049,female,9,diploma,standard,android_device,completed,74,75,83,77,Tire 1
+GR7039,female,7,primary school,standard,laptop,completed,71,70,76,72,Tire 1
+GR7040,female,7,high school,free/reduced,android_device,incomplete,77,88,85,83,Tire 1
+GR10045,female,10,middle school,standard,laptop,incomplete,80,90,82,84,Tire 1
+GR9050,female,9,diploma,free/reduced,android_device,incomplete,68,67,69,68,Tire 2
+GR9051,female,9,bachelor degree,standard,android_device,completed,59,64,75,66,Tire 2
+GR9052,female,9,high school,free/reduced,android_device,completed,67,79,84,77,Tire 1
+GR8040,female,8,primary school,free/reduced,laptop,completed,61,68,66,65,Tire 2
+GR9053,female,9,primary school,standard,laptop,completed,71,81,80,77,Tire 1
+GR8041,female,8,middle school,free/reduced,laptop,completed,24,38,27,30,Tire 3
+GR10046,female,10,master degree,free/reduced,android_device,completed,85,95,100,93,Tire 1
+GR9054,female,9,middle school,free/reduced,laptop,completed,43,53,53,50,Tire 2
+GR9055,female,9,high school,free/reduced,laptop,incomplete,41,46,43,43,Tire 2
+GR7041,female,7,diploma,free/reduced,laptop,incomplete,65,85,76,75,Tire 1
+GR10047,female,10,high school,standard,laptop,incomplete,62,64,64,63,Tire 2
+GR9056,female,9,primary school,standard,laptop,completed,82,90,94,89,Tire 1
+GR9057,female,9,bachelor degree,standard,laptop,completed,83,93,95,90,Tire 1
+GR7042,female,7,diploma,standard,android_device,incomplete,95,89,92,92,Tire 1
+GR10048,female,10,primary school,standard,laptop,completed,77,68,77,74,Tire 1
+GR8042,female,8,high school,standard,android_device,incomplete,69,76,74,73,Tire 1
+GR9058,female,9,high school,standard,laptop,incomplete,61,73,63,66,Tire 2
+GR7043,female,7,primary school,standard,android_device,incomplete,66,74,73,71,Tire 1
+GR10049,female,10,high school,standard,android_device,completed,88,99,100,96,Tire 1
+GR8043,female,8,bachelor degree,standard,laptop,incomplete,52,65,69,62,Tire 2
+GR10050,female,10,high school,free/reduced,android_device,completed,52,57,56,55,Tire 2
+GR9059,female,9,high school,standard,laptop,completed,72,80,75,76,Tire 1
+GR10051,female,10,master degree,standard,android_device,incomplete,70,71,74,72,Tire 1
+GR9060,female,9,bachelor degree,standard,android_device,completed,77,94,95,89,Tire 1
+GR7044,female,7,diploma,standard,android_device,incomplete,79,88,94,87,Tire 1
+GR8044,female,8,bachelor degree,standard,laptop,incomplete,61,72,70,68,Tire 2
+GR8045,female,8,high school,standard,laptop,incomplete,58,62,59,60,Tire 2
+GR9061,female,9,primary school,standard,android_device,completed,63,78,80,74,Tire 1
+GR10052,female,10,high school,standard,android_device,incomplete,57,58,64,60,Tire 2
+GR9062,female,9,diploma,standard,laptop,incomplete,46,58,57,54,Tire 2
+GR8046,female,8,diploma,standard,laptop,incomplete,80,86,83,83,Tire 1
+GR9063,female,9,primary school,standard,laptop,incomplete,59,71,70,67,Tire 2
+GR10053,female,10,master degree,free/reduced,android_device,completed,47,58,67,57,Tire 2
+GR7045,female,7,middle school,standard,android_device,incomplete,92,100,97,96,Tire 1
+GR7046,female,7,bachelor degree,free/reduced,android_device,completed,92,100,100,97,Tire 1
+GR8047,female,8,high school,free/reduced,laptop,incomplete,50,67,63,60,Tire 2
+GR8048,female,8,diploma,standard,laptop,incomplete,82,80,77,80,Tire 1
+GR10054,female,10,high school,standard,laptop,completed,78,81,80,80,Tire 1
+GR9064,female,9,primary school,free/reduced,android_device,incomplete,42,66,69,59,Tire 2
+GR9065,female,9,primary school,standard,laptop,incomplete,52,58,58,56,Tire 2
+GR9066,female,9,primary school,free/reduced,android_device,completed,45,73,70,63,Tire 2
+GR7047,female,7,high school,standard,laptop,completed,74,81,71,75,Tire 1
+GR8049,female,8,diploma,standard,laptop,completed,73,83,76,77,Tire 1
+GR7048,female,7,middle school,standard,laptop,completed,77,79,80,79,Tire 1
+GR9067,female,9,diploma,free/reduced,laptop,incomplete,57,78,67,67,Tire 2
+GR8050,female,8,diploma,standard,android_device,incomplete,90,90,91,90,Tire 1
+GR8051,female,8,diploma,standard,laptop,completed,49,52,54,52,Tire 2
+GR10055,female,10,bachelor degree,standard,laptop,completed,79,89,89,86,Tire 1
+GR8052,female,8,high school,standard,laptop,incomplete,54,64,68,62,Tire 2
+GR9068,female,9,middle school,standard,android_device,incomplete,65,74,77,72,Tire 1
+GR10056,female,10,diploma,free/reduced,laptop,incomplete,26,31,38,32,Tire 3
+GR8053,female,8,middle school,standard,laptop,completed,66,69,68,68,Tire 2
+GR7049,female,7,high school,standard,laptop,incomplete,55,73,73,67,Tire 2
+GR9069,female,9,diploma,standard,laptop,incomplete,85,89,95,90,Tire 1
+GR10057,female,10,middle school,standard,laptop,incomplete,59,67,61,62,Tire 2
+GR7050,female,7,middle school,standard,laptop,incomplete,48,66,65,60,Tire 2
+GR9070,female,9,middle school,standard,android_device,completed,59,54,67,60,Tire 2
+GR10058,female,10,bachelor degree,standard,android_device,incomplete,71,76,83,77,Tire 1
+GR9071,female,9,high school,standard,laptop,incomplete,54,59,62,58,Tire 2
+GR8054,female,8,diploma,standard,android_device,incomplete,94,87,92,91,Tire 1
+GR7051,female,7,high school,standard,laptop,incomplete,74,76,73,74,Tire 1
+GR9072,female,9,middle school,standard,laptop,completed,63,73,68,68,Tire 2
+GR10059,female,10,master degree,standard,laptop,incomplete,55,64,70,63,Tire 2
+GR10060,female,10,diploma,free/reduced,laptop,incomplete,52,59,56,56,Tire 2
+GR10061,female,10,primary school,free/reduced,android_device,completed,59,78,76,71,Tire 1
+GR8055,female,8,middle school,standard,laptop,incomplete,82,82,80,81,Tire 1
+GR9073,female,9,bachelor degree,free/reduced,android_device,incomplete,51,72,79,67,Tire 2
+GR10062,female,10,master degree,standard,laptop,completed,74,79,82,78,Tire 1
+GR7052,female,7,primary school,standard,laptop,incomplete,76,78,80,78,Tire 1
+GR10063,female,10,master degree,free/reduced,laptop,incomplete,40,59,54,51,Tire 2
+GR7053,female,7,primary school,standard,laptop,incomplete,61,64,62,62,Tire 2
+GR10064,female,10,primary school,standard,laptop,incomplete,74,89,84,82,Tire 1
+GR9074,female,9,diploma,free/reduced,android_device,incomplete,82,93,93,89,Tire 1
+GR7054,female,7,diploma,standard,laptop,incomplete,82,93,93,89,Tire 1
+GR8056,female,8,middle school,standard,android_device,completed,54,61,62,59,Tire 2
+GR8057,female,8,master degree,free/reduced,android_device,incomplete,77,97,94,89,Tire 1
+GR9075,female,9,primary school,free/reduced,laptop,incomplete,62,67,62,64,Tire 2
+GR7055,female,7,bachelor degree,standard,laptop,completed,37,45,38,40,Tire 3
+GR10065,female,10,middle school,standard,android_device,incomplete,66,78,78,74,Tire 1
+GR8058,female,8,high school,free/reduced,android_device,completed,67,78,79,75,Tire 1
+GR10066,female,10,bachelor degree,free/reduced,laptop,incomplete,29,41,47,39,Tire 3
+GR10067,female,10,high school,standard,laptop,incomplete,51,66,62,60,Tire 2
+GR7056,female,7,bachelor degree,free/reduced,laptop,incomplete,61,58,62,60,Tire 2
+GR9076,female,9,high school,standard,laptop,incomplete,61,72,70,68,Tire 2
+GR9077,female,9,primary school,standard,android_device,completed,67,81,79,76,Tire 1
+GR8059,female,8,diploma,standard,laptop,incomplete,40,48,50,46,Tire 2
+GR9078,female,9,middle school,standard,android_device,completed,67,74,77,73,Tire 1
+GR9079,female,9,primary school,free/reduced,android_device,completed,64,85,85,78,Tire 1
+GR9080,female,9,diploma,free/reduced,laptop,completed,65,77,74,72,Tire 1
+GR9081,female,9,diploma,free/reduced,laptop,incomplete,53,61,62,59,Tire 2
+GR7057,female,7,high school,standard,android_device,incomplete,74,79,80,78,Tire 1
+GR10068,female,10,diploma,standard,laptop,incomplete,82,95,89,89,Tire 1
+GR10069,female,10,master degree,standard,laptop,incomplete,64,63,66,64,Tire 2
+GR9082,female,9,primary school,free/reduced,laptop,incomplete,77,90,91,86,Tire 1
+GR10070,female,10,primary school,standard,android_device,incomplete,74,75,79,76,Tire 1
+GR10071,female,10,primary school,free/reduced,android_device,completed,63,80,80,74,Tire 1
+GR7058,female,7,high school,free/reduced,laptop,incomplete,64,62,68,65,Tire 2
+GR9083,female,9,primary school,standard,laptop,incomplete,84,87,91,87,Tire 1
+GR9084,female,9,diploma,standard,android_device,incomplete,83,85,90,86,Tire 1
+GR10072,female,10,master degree,free/reduced,android_device,incomplete,61,71,78,70,Tire 2
+GR10073,female,10,master degree,standard,laptop,incomplete,53,61,68,61,Tire 2
+GR8060,female,8,diploma,free/reduced,laptop,completed,53,70,70,64,Tire 2
+GR9085,female,9,high school,standard,laptop,incomplete,63,69,74,69,Tire 2
+GR9086,female,9,diploma,standard,android_device,completed,68,86,84,79,Tire 1
+GR7059,female,7,high school,standard,android_device,completed,68,80,76,75,Tire 1
+GR9087,female,9,diploma,free/reduced,laptop,incomplete,60,75,74,70,Tire 2
+GR8061,female,8,high school,standard,laptop,incomplete,81,91,89,87,Tire 1
+GR10074,female,10,middle school,standard,laptop,incomplete,81,97,96,91,Tire 1
+GR10075,female,10,bachelor degree,free/reduced,laptop,incomplete,63,73,78,71,Tire 1
+GR10076,female,10,diploma,standard,android_device,incomplete,73,75,80,76,Tire 1
+GR10077,female,10,primary school,standard,laptop,completed,69,77,77,74,Tire 1
+GR8062,female,8,primary school,free/reduced,android_device,incomplete,48,56,58,54,Tire 2
+GR8063,female,8,diploma,standard,laptop,completed,58,63,65,62,Tire 2
+GR7060,female,7,diploma,standard,android_device,completed,65,70,74,70,Tire 2
+GR8064,female,8,bachelor degree,standard,android_device,incomplete,66,74,81,74,Tire 1
+GR8065,female,8,high school,free/reduced,android_device,incomplete,67,80,81,76,Tire 1
+GR7061,female,7,primary school,standard,android_device,completed,73,78,76,76,Tire 1
+GR9088,female,9,diploma,standard,laptop,incomplete,64,64,70,66,Tire 2
+GR10078,female,10,high school,standard,laptop,incomplete,69,77,73,73,Tire 1
+GR9089,female,9,primary school,standard,laptop,completed,83,83,90,85,Tire 1
+GR7062,female,7,master degree,standard,android_device,incomplete,94,99,100,98,Tire 1
+GR10079,female,10,middle school,standard,laptop,completed,65,82,81,76,Tire 1
+GR8066,female,8,middle school,free/reduced,laptop,incomplete,72,81,79,77,Tire 1
+GR7063,female,7,diploma,free/reduced,laptop,completed,73,76,78,76,Tire 1
+GR7064,female,7,bachelor degree,standard,laptop,completed,59,72,70,67,Tire 2
+GR9090,female,9,bachelor degree,standard,laptop,completed,81,88,90,86,Tire 1
+GR10080,female,10,master degree,standard,laptop,incomplete,54,60,63,59,Tire 2
+GR7065,female,7,bachelor degree,standard,android_device,completed,79,81,82,81,Tire 1
+GR10081,female,10,middle school,standard,android_device,incomplete,80,92,88,87,Tire 1
+GR9091,female,9,primary school,standard,laptop,completed,54,48,52,51,Tire 2
+GR8067,female,8,bachelor degree,standard,android_device,incomplete,65,81,81,76,Tire 1
+GR9092,female,9,bachelor degree,standard,laptop,completed,86,92,87,88,Tire 1
+GR7066,female,7,middle school,standard,android_device,incomplete,80,85,85,83,Tire 1
+GR7067,female,7,diploma,standard,android_device,completed,65,75,77,72,Tire 1
+GR9093,female,9,middle school,standard,android_device,incomplete,76,87,85,83,Tire 1
+GR8068,female,8,high school,standard,laptop,incomplete,50,53,55,53,Tire 2
+GR10082,female,10,diploma,standard,laptop,incomplete,76,74,73,74,Tire 1
+GR8069,female,8,middle school,standard,laptop,incomplete,73,79,79,77,Tire 1
+GR8070,female,8,primary school,standard,laptop,incomplete,62,67,67,65,Tire 2
+GR10083,female,10,diploma,free/reduced,android_device,completed,74,88,90,84,Tire 1
+GR9094,female,9,diploma,standard,laptop,completed,91,86,84,87,Tire 1
+GR9095,female,9,high school,free/reduced,laptop,completed,36,53,43,44,Tire 2
+GR9096,female,9,diploma,standard,laptop,incomplete,62,74,70,69,Tire 2
+GR10084,female,10,diploma,standard,laptop,completed,59,70,65,65,Tire 2
+GR9097,female,9,diploma,standard,android_device,incomplete,68,67,73,69,Tire 2
+GR8071,female,8,bachelor degree,free/reduced,laptop,incomplete,77,85,87,83,Tire 1
+GR10085,female,10,primary school,standard,android_device,incomplete,69,79,81,76,Tire 1
+GR9098,female,9,middle school,standard,laptop,completed,47,54,53,51,Tire 2
+GR7068,female,7,primary school,free/reduced,laptop,incomplete,53,58,57,56,Tire 2
+GR9099,female,9,bachelor degree,free/reduced,android_device,incomplete,66,83,83,77,Tire 1
+GR9100,female,9,diploma,standard,laptop,incomplete,81,77,79,79,Tire 1
+GR9101,female,9,high school,free/reduced,laptop,incomplete,62,67,64,64,Tire 2
+GR9102,female,9,primary school,free/reduced,laptop,incomplete,32,39,33,35,Tire 3
+GR9103,female,9,diploma,standard,android_device,incomplete,55,72,79,69,Tire 2
+GR7069,female,7,diploma,free/reduced,laptop,incomplete,37,57,56,50,Tire 2
+GR9104,female,9,primary school,standard,laptop,completed,63,74,74,70,Tire 1
+GR8072,female,8,primary school,standard,android_device,incomplete,50,64,66,60,Tire 2
+GR9105,female,9,primary school,standard,laptop,incomplete,53,62,56,57,Tire 2
+GR9106,female,9,high school,free/reduced,android_device,incomplete,50,66,64,60,Tire 2
+GR7070,female,7,diploma,standard,laptop,completed,84,95,92,90,Tire 1
+GR8073,female,8,middle school,standard,laptop,incomplete,57,67,72,65,Tire 2
+GR9107,female,9,diploma,standard,laptop,incomplete,65,76,76,72,Tire 1
+GR8074,female,8,middle school,free/reduced,android_device,incomplete,59,63,64,62,Tire 2
+GR10086,female,10,primary school,standard,android_device,completed,85,86,98,90,Tire 1
+GR9108,female,9,bachelor degree,free/reduced,laptop,incomplete,44,63,62,56,Tire 2
+GR8075,female,8,middle school,standard,android_device,incomplete,60,70,74,68,Tire 2
+GR10087,female,10,diploma,free/reduced,laptop,completed,43,60,58,54,Tire 2
+GR9109,female,9,primary school,standard,laptop,incomplete,54,64,65,61,Tire 2
+GR9110,female,9,bachelor degree,standard,android_device,incomplete,92,100,99,97,Tire 1
+GR8076,female,8,diploma,free/reduced,android_device,completed,76,94,87,86,Tire 1
+GR10088,female,10,primary school,free/reduced,laptop,completed,55,71,69,65,Tire 2
+GR10089,female,10,high school,standard,android_device,incomplete,69,77,78,75,Tire 1
+GR9111,female,9,bachelor degree,standard,android_device,incomplete,56,79,72,69,Tire 2
+GR8077,female,8,middle school,free/reduced,android_device,incomplete,74,90,88,84,Tire 1
+GR9112,female,9,high school,standard,laptop,completed,29,29,30,29,Tire 3
+GR10090,female,10,high school,standard,laptop,incomplete,67,72,74,71,Tire 1
+GR7071,female,7,primary school,standard,android_device,incomplete,72,79,82,78,Tire 1
+GR8078,female,8,diploma,free/reduced,android_device,incomplete,68,77,80,75,Tire 1
+GR7072,female,7,middle school,free/reduced,laptop,incomplete,72,79,77,76,Tire 1
+GR9113,female,9,diploma,standard,laptop,completed,85,84,82,84,Tire 1
+GR9114,female,9,master degree,free/reduced,laptop,incomplete,40,58,54,51,Tire 2
+GR9115,female,9,primary school,standard,laptop,incomplete,58,59,66,61,Tire 2
+GR8079,female,8,primary school,free/reduced,android_device,incomplete,53,66,73,64,Tire 2
+GR7073,female,7,diploma,free/reduced,android_device,incomplete,57,68,73,66,Tire 2
+GR9116,female,9,diploma,standard,laptop,completed,65,77,74,72,Tire 1
+GR10091,female,10,diploma,standard,laptop,incomplete,77,77,73,76,Tire 1
+GR10092,female,10,primary school,free/reduced,laptop,incomplete,79,89,86,85,Tire 1
+GR8080,female,8,high school,standard,laptop,incomplete,62,62,63,62,Tire 2
+GR8081,female,8,high school,standard,laptop,completed,74,72,72,73,Tire 1
+GR9117,female,9,high school,standard,laptop,incomplete,60,68,72,67,Tire 2
+GR10093,female,10,diploma,standard,android_device,incomplete,57,78,79,71,Tire 1
+GR9118,female,9,high school,free/reduced,laptop,incomplete,35,61,54,50,Tire 2
+GR7074,female,7,diploma,free/reduced,laptop,completed,70,84,81,78,Tire 1
+GR9119,female,9,middle school,standard,android_device,completed,44,51,55,50,Tire 2
+GR9120,female,9,high school,standard,laptop,incomplete,75,88,85,83,Tire 1
+GR7075,female,7,diploma,standard,laptop,incomplete,87,94,95,92,Tire 1
+GR10094,female,10,primary school,standard,laptop,incomplete,63,64,67,65,Tire 2
+GR7076,female,7,high school,free/reduced,laptop,incomplete,41,45,40,42,Tire 2
+GR9121,female,9,high school,standard,laptop,completed,65,69,67,67,Tire 2
+GR10095,female,10,diploma,free/reduced,android_device,incomplete,42,61,58,54,Tire 2
+GR10096,female,10,primary school,standard,laptop,completed,98,100,99,99,Tire 1
+GR10097,female,10,high school,free/reduced,laptop,incomplete,73,92,84,83,Tire 1
+GR7077,female,7,bachelor degree,standard,laptop,incomplete,45,59,64,56,Tire 2
+GR10098,female,10,primary school,free/reduced,android_device,incomplete,52,59,65,59,Tire 2
+GR10099,female,10,middle school,standard,laptop,completed,48,58,54,53,Tire 2
+GR7078,female,7,middle school,standard,android_device,incomplete,85,90,92,89,Tire 1
+GR7079,female,7,primary school,free/reduced,laptop,incomplete,61,60,57,59,Tire 2
+GR8082,female,8,middle school,free/reduced,android_device,incomplete,52,67,72,64,Tire 2
+GR9122,female,9,middle school,free/reduced,android_device,completed,50,60,60,57,Tire 2
+GR9123,female,9,primary school,free/reduced,android_device,incomplete,63,73,71,69,Tire 2
+GR7080,female,7,high school,standard,android_device,incomplete,75,82,79,79,Tire 1
+GR7081,female,7,high school,standard,laptop,incomplete,61,68,63,64,Tire 2
+GR7082,female,7,primary school,standard,laptop,incomplete,87,85,93,88,Tire 1
+GR7083,female,7,master degree,free/reduced,laptop,incomplete,81,86,87,85,Tire 1
+GR9124,female,9,high school,free/reduced,laptop,incomplete,66,76,68,70,Tire 2
+GR10100,female,10,middle school,standard,laptop,incomplete,68,71,75,71,Tire 1
+GR10101,female,10,diploma,free/reduced,laptop,incomplete,46,56,57,53,Tire 2
+GR7084,female,7,bachelor degree,standard,android_device,completed,71,70,70,70,Tire 1
+GR10102,female,10,primary school,free/reduced,laptop,incomplete,60,66,70,65,Tire 2
+GR7085,female,7,diploma,standard,keypad_mobile,incomplete,51,51,54,52,Tire 2
+GR9125,female,9,primary school,standard,keypad_mobile,completed,69,78,76,74,Tire 1
+GR9126,female,9,diploma,standard,android_device,completed,65,84,84,78,Tire 1
+GR7086,female,7,diploma,standard,android_device,incomplete,93,100,95,96,Tire 1
+GR8083,female,8,middle school,free/reduced,keypad_mobile,incomplete,49,58,55,54,Tire 2
+GR9127,female,9,middle school,standard,android_device,incomplete,70,82,76,76,Tire 1
+GR8084,female,8,high school,standard,keypad_mobile,incomplete,66,72,70,69,Tire 2
+GR10103,female,10,primary school,free/reduced,keypad_mobile,incomplete,64,74,75,71,Tire 1
+GR9128,female,9,middle school,free/reduced,android_device,completed,29,40,44,38,Tire 3
+GR7087,female,7,primary school,standard,android_device,incomplete,86,85,91,87,Tire 1
+GR7088,female,7,diploma,standard,keypad_mobile,incomplete,85,92,85,87,Tire 1
+GR10104,female,10,bachelor degree,free/reduced,keypad_mobile,completed,78,90,93,87,Tire 1
+GR9129,female,9,diploma,standard,keypad_mobile,incomplete,49,53,53,52,Tire 2
+GR9130,female,9,bachelor degree,free/reduced,android_device,incomplete,66,74,81,74,Tire 1
+GR8085,female,8,master degree,standard,keypad_mobile,completed,77,90,84,84,Tire 1
+GR8086,female,8,high school,free/reduced,android_device,incomplete,76,85,82,81,Tire 1
+GR10105,female,10,middle school,free/reduced,android_device,completed,69,86,81,79,Tire 1
+GR10106,female,10,high school,free/reduced,keypad_mobile,completed,39,52,46,46,Tire 2
+GR10107,female,10,middle school,free/reduced,android_device,completed,40,65,64,56,Tire 2
+GR7089,female,7,master degree,free/reduced,keypad_mobile,completed,50,67,73,63,Tire 2
+GR10108,female,10,middle school,standard,keypad_mobile,incomplete,59,72,80,70,Tire 1
+GR8087,female,8,middle school,standard,android_device,completed,32,51,44,42,Tire 2
+GR9131,female,9,middle school,standard,keypad_mobile,completed,49,63,56,56,Tire 2
+GR7090,female,7,diploma,standard,keypad_mobile,incomplete,59,62,69,63,Tire 2
+GR9132,female,9,diploma,standard,android_device,completed,75,82,90,82,Tire 1
+GR9133,female,9,diploma,standard,android_device,incomplete,96,96,99,97,Tire 1
+GR10109,female,10,diploma,standard,keypad_mobile,incomplete,64,76,74,71,Tire 1
+GR7091,female,7,middle school,free/reduced,keypad_mobile,completed,32,34,38,35,Tire 3
+GR9134,female,9,high school,standard,keypad_mobile,completed,76,76,74,75,Tire 1
+GR10110,female,10,primary school,free/reduced,keypad_mobile,completed,69,65,74,69,Tire 2
+GR10111,female,10,middle school,standard,android_device,completed,65,78,82,75,Tire 1
+GR7092,female,7,high school,free/reduced,android_device,completed,34,48,41,41,Tire 2
+GR8088,female,8,primary school,standard,keypad_mobile,incomplete,19,38,32,30,Tire 3
+GR9135,female,9,primary school,free/reduced,keypad_mobile,incomplete,62,72,70,68,Tire 2
+GR9136,female,9,primary school,standard,android_device,incomplete,87,89,94,90,Tire 1
+GR9137,female,9,high school,standard,keypad_mobile,incomplete,81,84,82,82,Tire 1
+GR7093,female,7,primary school,standard,keypad_mobile,incomplete,69,84,82,78,Tire 1
+GR9138,female,9,diploma,standard,android_device,incomplete,59,73,72,68,Tire 2
+GR9139,female,9,bachelor degree,free/reduced,keypad_mobile,incomplete,50,60,59,56,Tire 2
+GR9140,female,9,middle school,standard,android_device,incomplete,77,90,85,84,Tire 1
+GR9141,female,9,high school,free/reduced,keypad_mobile,incomplete,53,72,64,63,Tire 2
+GR7094,female,7,primary school,standard,keypad_mobile,incomplete,68,70,66,68,Tire 2
+GR9142,female,9,high school,standard,android_device,incomplete,58,75,77,70,Tire 2
+GR9143,female,9,bachelor degree,free/reduced,keypad_mobile,completed,62,78,79,73,Tire 1
+GR10112,female,10,bachelor degree,free/reduced,android_device,incomplete,93,100,100,98,Tire 1
+GR10113,female,10,middle school,free/reduced,keypad_mobile,incomplete,67,84,84,78,Tire 1
+GR9144,female,9,primary school,free/reduced,keypad_mobile,incomplete,35,44,43,41,Tire 2
+GR10114,female,10,primary school,standard,android_device,completed,79,84,91,85,Tire 1
+GR9145,female,9,diploma,standard,android_device,completed,52,59,62,58,Tire 2
+GR10115,female,10,high school,free/reduced,android_device,incomplete,65,61,71,66,Tire 2
+GR7095,female,7,high school,free/reduced,keypad_mobile,incomplete,57,58,57,57,Tire 2
+GR8089,female,8,high school,standard,keypad_mobile,incomplete,48,62,60,57,Tire 2
+GR7096,female,7,high school,free/reduced,android_device,incomplete,57,75,73,68,Tire 2
+GR9146,female,9,master degree,free/reduced,keypad_mobile,completed,52,65,61,59,Tire 2
+GR10116,female,10,master degree,standard,keypad_mobile,incomplete,78,91,96,88,Tire 1
+GR9147,female,9,diploma,standard,keypad_mobile,completed,52,55,57,55,Tire 2
+GR8090,female,8,high school,standard,keypad_mobile,incomplete,42,52,51,48,Tire 2
+GR8091,female,8,primary school,standard,keypad_mobile,incomplete,82,85,87,85,Tire 1
+GR9148,female,9,primary school,standard,keypad_mobile,completed,73,76,78,76,Tire 1
+GR7097,female,7,middle school,free/reduced,keypad_mobile,incomplete,74,74,72,73,Tire 1
+GR9149,female,9,master degree,standard,android_device,incomplete,54,64,67,62,Tire 2
+GR9150,female,9,high school,standard,keypad_mobile,incomplete,72,80,83,78,Tire 1
+GR9151,female,9,middle school,standard,keypad_mobile,incomplete,77,91,88,85,Tire 1
+GR9152,female,9,middle school,free/reduced,keypad_mobile,incomplete,48,58,52,53,Tire 2
+GR10117,female,10,primary school,free/reduced,keypad_mobile,incomplete,49,58,60,56,Tire 2
+GR10118,female,10,primary school,standard,android_device,incomplete,75,77,83,78,Tire 1
+GR7098,female,7,primary school,standard,keypad_mobile,incomplete,56,58,64,59,Tire 2
+GR8092,female,8,high school,free/reduced,keypad_mobile,completed,60,72,68,67,Tire 2
+GR9153,female,9,diploma,free/reduced,android_device,incomplete,56,68,70,65,Tire 2
+GR8093,female,8,high school,free/reduced,keypad_mobile,incomplete,71,87,82,80,Tire 1
+GR7099,female,7,diploma,standard,keypad_mobile,incomplete,100,100,100,100,Tire 1
+GR9154,female,9,middle school,standard,keypad_mobile,incomplete,65,69,76,70,Tire 2
+GR7100,female,7,diploma,standard,keypad_mobile,completed,68,76,67,70,Tire 1
+GR9155,female,9,bachelor degree,free/reduced,android_device,incomplete,74,86,89,83,Tire 1
+GR10119,female,10,master degree,standard,keypad_mobile,incomplete,92,100,100,97,Tire 1
+GR7101,female,7,high school,free/reduced,android_device,completed,53,50,60,54,Tire 2
+GR7102,female,7,primary school,standard,keypad_mobile,completed,54,63,67,61,Tire 2
+GR9156,female,9,high school,standard,android_device,incomplete,60,64,74,66,Tire 2
+GR9157,female,9,diploma,standard,keypad_mobile,completed,66,77,73,72,Tire 1
+GR9158,female,9,high school,standard,keypad_mobile,incomplete,59,72,68,66,Tire 2
+GR9159,female,9,bachelor degree,standard,keypad_mobile,completed,65,79,81,75,Tire 1
+GR10120,female,10,high school,standard,keypad_mobile,incomplete,45,63,59,56,Tire 2
+GR8094,female,8,high school,standard,android_device,completed,77,82,89,83,Tire 1
+GR10121,female,10,middle school,free/reduced,keypad_mobile,completed,48,54,53,52,Tire 2
+GR7103,female,7,primary school,standard,android_device,completed,78,87,91,85,Tire 1
+GR10122,female,10,primary school,standard,keypad_mobile,incomplete,62,70,72,68,Tire 2
+GR10123,female,10,bachelor degree,standard,keypad_mobile,incomplete,89,100,100,96,Tire 1
+GR7104,female,7,middle school,free/reduced,keypad_mobile,incomplete,44,45,45,45,Tire 2
+GR8095,female,8,high school,free/reduced,android_device,completed,23,44,36,34,Tire 3
+GR10124,female,10,primary school,free/reduced,keypad_mobile,incomplete,49,65,61,58,Tire 2
+GR9160,female,9,diploma,standard,keypad_mobile,incomplete,53,62,53,56,Tire 2
+GR7105,female,7,master degree,standard,android_device,incomplete,88,99,95,94,Tire 1
+GR8096,female,8,bachelor degree,standard,keypad_mobile,incomplete,97,97,96,97,Tire 1
+GR9161,female,9,primary school,standard,android_device,incomplete,71,71,80,74,Tire 1
+GR10125,female,10,primary school,free/reduced,android_device,incomplete,67,86,83,79,Tire 1
+GR9162,female,9,primary school,standard,android_device,incomplete,70,72,76,73,Tire 1
+GR8097,female,8,high school,free/reduced,keypad_mobile,completed,64,73,71,69,Tire 2
+GR9163,female,9,bachelor degree,free/reduced,keypad_mobile,completed,43,62,61,55,Tire 2
+GR7107,male,7,primary school,standard,android_device,incomplete,78,72,70,73,Tire 1
+GR9165,female,9,master degree,standard,keypad_mobile,incomplete,73,78,74,75,Tire 1
+GR9164,female,9,diploma,standard,android_device,incomplete,62,76,80,73,Tire 1
+GR10126,female,10,diploma,free/reduced,keypad_mobile,incomplete,55,76,76,69,Tire 2
+GR8098,female,8,middle school,free/reduced,android_device,incomplete,63,78,79,73,Tire 1
+GR9166,female,9,bachelor degree,free/reduced,keypad_mobile,completed,67,75,72,71,Tire 1
+GR10127,female,10,bachelor degree,free/reduced,keypad_mobile,incomplete,62,72,74,69,Tire 2
+GR8099,female,8,diploma,free/reduced,keypad_mobile,completed,46,61,55,54,Tire 2
+GR8100,female,8,diploma,free/reduced,keypad_mobile,incomplete,54,65,65,61,Tire 2
+GR10129,female,10,primary school,free/reduced,keypad_mobile,incomplete,77,86,86,83,Tire 1
+GR10128,female,10,primary school,standard,android_device,incomplete,68,78,77,74,Tire 1
+GR8101,female,8,high school,standard,keypad_mobile,completed,58,68,61,62,Tire 2
+GR9167,female,9,bachelor degree,standard,android_device,incomplete,52,61,66,60,Tire 2
+GR8102,female,8,bachelor degree,standard,keypad_mobile,completed,75,84,80,80,Tire 1
+GR9169,female,9,high school,standard,keypad_mobile,incomplete,44,61,52,52,Tire 2
+GR8103,female,8,high school,free/reduced,keypad_mobile,incomplete,8,24,23,18,Tire 3
+GR7110,male,7,diploma,standard,android_device,incomplete,81,81,79,80,Tire 1
+GR9171,female,9,high school,free/reduced,keypad_mobile,incomplete,35,53,46,45,Tire 2
+GR9168,female,9,bachelor degree,free/reduced,android_device,incomplete,47,62,66,58,Tire 2
+GR9172,female,9,middle school,free/reduced,keypad_mobile,incomplete,48,56,51,52,Tire 2
+GR10130,male,10,high school,free/reduced,android_device,incomplete,64,64,67,65,Tire 2
+GR9173,female,9,diploma,standard,keypad_mobile,incomplete,54,61,58,58,Tire 2
+GR9174,female,9,primary school,standard,keypad_mobile,incomplete,62,69,69,67,Tire 2
+GR9177,female,9,diploma,standard,keypad_mobile,completed,91,95,94,93,Tire 1
+GR8104,female,8,middle school,standard,android_device,completed,65,82,78,75,Tire 1
+GR9170,female,9,diploma,standard,android_device,completed,57,77,80,71,Tire 1
+GR9178,female,9,middle school,standard,keypad_mobile,incomplete,74,75,82,77,Tire 1
+GR7112,male,7,diploma,free/reduced,android_device,completed,77,69,68,71,Tire 1
+GR9179,female,9,diploma,standard,keypad_mobile,completed,40,59,51,50,Tire 2
+GR7106,male,7,diploma,free/reduced,keypad_mobile,completed,47,57,44,49,Tire 2
+GR10134,male,10,bachelor degree,free/reduced,android_device,incomplete,74,71,80,75,Tire 1
+GR7108,male,7,master degree,free/reduced,keypad_mobile,incomplete,73,74,72,73,Tire 1
+GR7109,male,7,primary school,standard,keypad_mobile,incomplete,97,87,82,89,Tire 1
+GR7111,male,7,primary school,standard,keypad_mobile,incomplete,53,55,48,52,Tire 2
+GR10131,male,10,diploma,standard,keypad_mobile,completed,40,52,43,45,Tire 2
+GR7113,male,7,bachelor degree,free/reduced,android_device,incomplete,79,74,72,75,Tire 1
+GR10132,male,10,high school,standard,keypad_mobile,completed,66,69,63,66,Tire 2
+GR9175,female,9,middle school,free/reduced,android_device,incomplete,65,76,75,72,Tire 1
+GR10133,male,10,primary school,standard,keypad_mobile,incomplete,44,54,53,50,Tire 2
+GR9176,female,9,primary school,standard,android_device,incomplete,64,82,77,74,Tire 1
+GR8105,male,8,primary school,free/reduced,keypad_mobile,completed,40,43,39,41,Tire 2
+GR10135,male,10,primary school,standard,keypad_mobile,incomplete,40,42,38,40,Tire 3
+GR10136,male,10,high school,standard,keypad_mobile,completed,88,78,75,80,Tire 1
+GR7114,male,7,middle school,free/reduced,keypad_mobile,completed,39,39,34,37,Tire 3
+GR7115,male,7,diploma,free/reduced,keypad_mobile,completed,62,61,55,59,Tire 2
+GR8106,male,8,primary school,standard,keypad_mobile,completed,69,54,55,59,Tire 2
+GR9180,female,9,high school,free/reduced,android_device,completed,59,71,65,65,Tire 2
+GR10137,male,10,diploma,standard,keypad_mobile,incomplete,52,55,49,52,Tire 2
+GR7116,male,7,middle school,standard,keypad_mobile,completed,30,26,22,26,Tire 3
+GR7117,male,7,bachelor degree,standard,android_device,completed,80,78,81,80,Tire 1
+GR9181,male,9,primary school,standard,keypad_mobile,completed,76,78,75,76,Tire 1
+GR10138,male,10,primary school,standard,android_device,completed,58,59,58,58,Tire 2
+GR9182,male,9,diploma,standard,keypad_mobile,incomplete,58,54,52,55,Tire 2
+GR10139,male,10,middle school,free/reduced,keypad_mobile,incomplete,45,37,37,40,Tire 3
+GR10140,male,10,primary school,standard,android_device,incomplete,63,55,63,60,Tire 2
+GR7118,male,7,primary school,free/reduced,android_device,completed,50,47,54,50,Tire 2
+GR7119,male,7,diploma,standard,keypad_mobile,completed,72,64,63,66,Tire 2
+GR9183,male,9,high school,standard,keypad_mobile,completed,88,89,86,88,Tire 1
+GR9184,male,9,master degree,free/reduced,android_device,incomplete,46,42,46,45,Tire 2
+GR9185,male,9,high school,standard,keypad_mobile,incomplete,70,70,65,68,Tire 2
+GR9186,male,9,diploma,free/reduced,keypad_mobile,incomplete,55,61,54,57,Tire 2
+GR8107,male,8,diploma,free/reduced,keypad_mobile,completed,57,56,57,57,Tire 2
+GR8108,male,8,primary school,free/reduced,android_device,incomplete,59,65,66,63,Tire 2
+GR10141,male,10,high school,free/reduced,keypad_mobile,incomplete,42,39,34,38,Tire 3
+GR7120,male,7,diploma,standard,android_device,incomplete,66,63,64,64,Tire 2
+GR9187,male,9,high school,standard,android_device,incomplete,82,84,82,83,Tire 1
+GR9188,male,9,primary school,standard,keypad_mobile,completed,53,44,42,46,Tire 2
+GR9189,male,9,middle school,free/reduced,keypad_mobile,incomplete,61,57,56,58,Tire 2
+GR8109,male,8,diploma,standard,keypad_mobile,incomplete,65,54,57,59,Tire 2
+GR10142,male,10,bachelor degree,standard,android_device,incomplete,68,74,74,72,Tire 1
+GR10143,male,10,high school,free/reduced,keypad_mobile,completed,63,57,56,59,Tire 2
+GR9190,male,9,middle school,standard,keypad_mobile,incomplete,49,49,41,46,Tire 2
+GR9191,male,9,high school,free/reduced,keypad_mobile,completed,27,34,36,32,Tire 3
+GR10144,male,10,primary school,standard,android_device,completed,65,77,74,72,Tire 1
+GR8110,male,8,middle school,standard,keypad_mobile,incomplete,67,64,61,64,Tire 2
+GR8111,male,8,diploma,free/reduced,keypad_mobile,incomplete,61,58,56,58,Tire 2
+GR7121,male,7,diploma,standard,keypad_mobile,completed,54,53,47,51,Tire 2
+GR10145,male,10,master degree,standard,keypad_mobile,completed,82,82,74,79,Tire 1
+GR8112,male,8,diploma,free/reduced,keypad_mobile,incomplete,44,41,38,41,Tire 2
+GR10146,male,10,master degree,standard,keypad_mobile,incomplete,89,84,82,85,Tire 1
+GR8113,male,8,high school,free/reduced,keypad_mobile,completed,49,45,45,46,Tire 2
+GR7122,male,7,primary school,standard,keypad_mobile,incomplete,83,80,73,79,Tire 1
+GR9192,male,9,high school,standard,keypad_mobile,incomplete,71,79,71,74,Tire 1
+GR9193,male,9,diploma,free/reduced,android_device,completed,43,45,50,46,Tire 2
+GR7123,male,7,primary school,free/reduced,android_device,incomplete,87,74,70,77,Tire 1
+GR7124,male,7,high school,standard,keypad_mobile,completed,70,55,56,60,Tire 2
+GR7125,male,7,high school,standard,keypad_mobile,completed,57,43,47,49,Tire 2
+GR8114,male,8,middle school,standard,android_device,incomplete,65,66,62,64,Tire 2
+GR8115,male,8,primary school,standard,keypad_mobile,completed,79,67,67,71,Tire 1
+GR10147,male,10,bachelor degree,free/reduced,android_device,incomplete,74,79,75,76,Tire 1
+GR10148,male,10,primary school,standard,android_device,incomplete,71,61,69,67,Tire 2
+GR7126,male,7,diploma,free/reduced,android_device,incomplete,100,100,93,98,Tire 1
+GR10149,male,10,primary school,standard,keypad_mobile,incomplete,88,73,78,80,Tire 1
+GR10150,male,10,bachelor degree,standard,keypad_mobile,completed,54,49,47,50,Tire 2
+GR10151,male,10,middle school,standard,keypad_mobile,incomplete,62,67,61,63,Tire 2
+GR9194,male,9,diploma,free/reduced,android_device,incomplete,78,81,82,80,Tire 1
+GR7127,male,7,middle school,standard,android_device,incomplete,62,67,69,66,Tire 2
+GR9195,male,9,primary school,standard,android_device,incomplete,98,86,90,91,Tire 1
+GR9196,male,9,high school,standard,keypad_mobile,incomplete,62,55,49,55,Tire 2
+GR7128,male,7,bachelor degree,standard,keypad_mobile,incomplete,77,67,68,71,Tire 1
+GR9197,male,9,high school,standard,keypad_mobile,incomplete,84,77,74,78,Tire 1
+GR7129,male,7,high school,standard,android_device,incomplete,72,73,74,73,Tire 1
+GR7130,male,7,middle school,standard,keypad_mobile,incomplete,94,88,78,87,Tire 1
+GR7131,male,7,high school,standard,keypad_mobile,incomplete,80,76,65,74,Tire 1
+GR9198,male,9,middle school,free/reduced,android_device,completed,53,37,40,43,Tire 2
+GR9199,male,9,bachelor degree,standard,keypad_mobile,completed,58,55,48,54,Tire 2
+GR8116,male,8,high school,standard,android_device,incomplete,60,44,47,50,Tire 2
+GR7132,male,7,high school,free/reduced,keypad_mobile,incomplete,55,56,51,54,Tire 2
+GR10152,male,10,diploma,free/reduced,keypad_mobile,incomplete,66,62,64,64,Tire 2
+GR10153,male,10,middle school,standard,android_device,incomplete,62,66,68,65,Tire 2
+GR10154,male,10,primary school,standard,android_device,incomplete,76,83,79,79,Tire 1
+GR9200,male,9,diploma,free/reduced,keypad_mobile,incomplete,73,68,66,69,Tire 2
+GR7133,male,7,bachelor degree,standard,keypad_mobile,incomplete,82,62,62,69,Tire 2
+GR10155,male,10,primary school,standard,android_device,incomplete,77,62,62,67,Tire 2
+GR10156,male,10,diploma,standard,keypad_mobile,completed,61,55,52,56,Tire 2
+GR9201,male,9,high school,standard,keypad_mobile,incomplete,52,53,49,51,Tire 2
+GR9202,male,9,high school,free/reduced,android_device,incomplete,53,51,51,52,Tire 2
+GR9203,male,9,master degree,free/reduced,android_device,incomplete,62,68,75,68,Tire 2
+GR7134,male,7,high school,standard,android_device,incomplete,81,80,76,79,Tire 1
+GR8117,male,8,diploma,standard,android_device,incomplete,91,89,92,91,Tire 1
+GR10157,male,10,middle school,standard,android_device,completed,74,71,78,74,Tire 1
+GR9204,male,9,middle school,free/reduced,android_device,incomplete,45,52,49,49,Tire 2
+GR9205,male,9,diploma,free/reduced,android_device,completed,65,67,65,66,Tire 2
+GR9206,male,9,middle school,free/reduced,android_device,incomplete,59,69,65,64,Tire 2
+GR7135,male,7,high school,standard,android_device,incomplete,87,91,81,86,Tire 1
+GR9207,male,9,diploma,standard,keypad_mobile,incomplete,69,77,69,72,Tire 1
+GR7136,male,7,middle school,free/reduced,keypad_mobile,incomplete,68,72,64,68,Tire 2
+GR10158,male,10,middle school,free/reduced,android_device,incomplete,80,79,79,79,Tire 1
+GR10159,male,10,middle school,standard,keypad_mobile,incomplete,86,80,75,80,Tire 1
+GR9208,male,9,primary school,standard,keypad_mobile,completed,59,41,42,47,Tire 2
+GR9209,male,9,primary school,free/reduced,keypad_mobile,incomplete,35,28,27,30,Tire 3
+GR8118,male,8,middle school,standard,keypad_mobile,incomplete,72,68,67,69,Tire 2
+GR9210,male,9,diploma,free/reduced,android_device,completed,60,51,56,56,Tire 2
+GR7137,male,7,middle school,standard,keypad_mobile,completed,92,87,78,86,Tire 1
+GR7138,male,7,primary school,standard,keypad_mobile,incomplete,59,51,43,51,Tire 2
+GR10160,male,10,high school,standard,keypad_mobile,completed,57,50,54,54,Tire 2
+GR8119,male,8,middle school,standard,android_device,completed,51,54,41,49,Tire 2
+GR10161,male,10,primary school,standard,keypad_mobile,incomplete,76,64,66,69,Tire 2
+GR10162,male,10,diploma,standard,keypad_mobile,incomplete,80,75,77,77,Tire 1
+GR9211,male,9,diploma,standard,keypad_mobile,completed,46,43,42,44,Tire 2
+GR10163,male,10,bachelor degree,free/reduced,keypad_mobile,incomplete,63,66,67,65,Tire 2
+GR8120,male,8,middle school,standard,keypad_mobile,incomplete,88,84,75,82,Tire 1
+GR8121,male,8,primary school,free/reduced,keypad_mobile,completed,60,60,60,60,Tire 2
+GR9212,male,9,bachelor degree,standard,android_device,incomplete,83,82,84,83,Tire 1
+GR10164,male,10,high school,free/reduced,android_device,incomplete,73,68,66,69,Tire 2
+GR7139,male,7,diploma,standard,keypad_mobile,incomplete,89,76,74,80,Tire 1
+GR8122,male,8,diploma,free/reduced,android_device,completed,82,78,74,78,Tire 1
+GR10165,male,10,middle school,standard,keypad_mobile,completed,75,74,69,73,Tire 1
+GR7140,male,7,middle school,standard,android_device,incomplete,47,49,49,48,Tire 2
+GR10166,male,10,master degree,standard,keypad_mobile,incomplete,80,80,72,77,Tire 1
+GR10167,male,10,high school,standard,keypad_mobile,incomplete,54,52,52,53,Tire 2
+GR10168,male,10,high school,standard,keypad_mobile,completed,76,73,68,72,Tire 1
+GR8123,male,8,master degree,free/reduced,keypad_mobile,incomplete,49,53,52,51,Tire 2
+GR7141,male,7,diploma,standard,android_device,completed,97,82,88,89,Tire 1
+GR8124,male,8,middle school,free/reduced,keypad_mobile,incomplete,48,52,45,48,Tire 2
+GR8125,male,8,middle school,standard,android_device,completed,84,83,75,81,Tire 1
+GR10169,male,10,middle school,free/reduced,keypad_mobile,incomplete,59,42,41,47,Tire 2
+GR7142,male,7,middle school,standard,android_device,incomplete,77,76,77,77,Tire 1
+GR8126,male,8,high school,free/reduced,keypad_mobile,incomplete,66,77,70,71,Tire 1
+GR10170,male,10,high school,standard,keypad_mobile,completed,53,52,42,49,Tire 2
+GR9213,male,9,diploma,standard,keypad_mobile,completed,84,80,80,81,Tire 1
+GR7143,male,7,middle school,standard,android_device,completed,46,41,43,43,Tire 2
+GR10171,male,10,high school,standard,keypad_mobile,completed,45,48,46,46,Tire 2
+GR7144,male,7,diploma,standard,android_device,completed,71,74,68,71,Tire 1
+GR8127,male,8,middle school,standard,android_device,incomplete,61,56,56,58,Tire 2
+GR8128,male,8,diploma,standard,keypad_mobile,incomplete,87,85,73,82,Tire 1
+GR9214,male,9,diploma,standard,keypad_mobile,incomplete,85,76,71,77,Tire 1
+GR10172,male,10,middle school,standard,keypad_mobile,incomplete,86,73,70,76,Tire 1
+GR10173,male,10,high school,free/reduced,android_device,incomplete,78,77,80,78,Tire 1
+GR10174,male,10,diploma,free/reduced,keypad_mobile,incomplete,90,87,75,84,Tire 1
+GR9215,male,9,high school,standard,keypad_mobile,incomplete,68,60,53,60,Tire 2
+GR9216,male,9,diploma,standard,android_device,incomplete,78,77,77,77,Tire 1
+GR10175,male,10,middle school,free/reduced,keypad_mobile,incomplete,56,54,52,54,Tire 2
+GR9217,male,9,primary school,standard,android_device,incomplete,79,79,78,79,Tire 1
+GR10176,male,10,bachelor degree,standard,android_device,incomplete,67,61,68,65,Tire 2
+GR9218,male,9,bachelor degree,standard,keypad_mobile,completed,69,63,61,64,Tire 2
+GR9219,male,9,primary school,standard,keypad_mobile,completed,58,49,42,50,Tire 2
+GR8129,male,8,primary school,standard,keypad_mobile,incomplete,54,52,51,52,Tire 2
+GR9220,male,9,bachelor degree,standard,keypad_mobile,incomplete,83,78,73,78,Tire 1
+GR10177,male,10,middle school,standard,android_device,completed,76,70,69,72,Tire 1
+GR9221,male,9,diploma,standard,keypad_mobile,incomplete,76,70,68,71,Tire 1
+GR10178,male,10,diploma,standard,android_device,incomplete,67,72,67,69,Tire 2
+GR9222,male,9,middle school,standard,android_device,incomplete,63,60,57,60,Tire 2
+GR9223,male,9,high school,free/reduced,android_device,completed,40,46,50,45,Tire 2
+GR10179,male,10,primary school,standard,keypad_mobile,completed,79,73,67,73,Tire 1
+GR8130,male,8,primary school,standard,android_device,completed,88,85,76,83,Tire 1
+GR7145,male,7,primary school,free/reduced,android_device,completed,81,78,81,80,Tire 1
+GR9224,male,9,middle school,standard,keypad_mobile,completed,51,52,44,49,Tire 2
+GR10180,male,10,high school,free/reduced,keypad_mobile,incomplete,75,74,66,72,Tire 1
+GR10181,male,10,primary school,free/reduced,keypad_mobile,incomplete,59,62,61,61,Tire 2
+GR10182,male,10,middle school,standard,keypad_mobile,incomplete,74,74,72,73,Tire 1
+GR8131,male,8,bachelor degree,free/reduced,keypad_mobile,incomplete,73,56,57,62,Tire 2
+GR8132,male,8,diploma,standard,android_device,incomplete,81,82,82,82,Tire 1
+GR9225,male,9,high school,standard,keypad_mobile,completed,71,66,65,67,Tire 2
+GR8133,male,8,bachelor degree,free/reduced,keypad_mobile,completed,88,75,76,80,Tire 1
+GR7146,male,7,primary school,standard,keypad_mobile,completed,69,67,69,68,Tire 2
+GR7147,male,7,primary school,standard,android_device,completed,99,87,81,89,Tire 1
+GR10183,male,10,master degree,standard,keypad_mobile,incomplete,73,70,75,73,Tire 1
+GR7148,male,7,primary school,free/reduced,keypad_mobile,incomplete,28,23,19,23,Tire 3
+GR7149,male,7,diploma,standard,android_device,incomplete,62,56,53,57,Tire 2
+GR9226,male,9,diploma,standard,keypad_mobile,incomplete,83,72,78,78,Tire 1
+GR7150,male,7,diploma,standard,keypad_mobile,incomplete,87,74,76,79,Tire 1
+GR9227,male,9,primary school,standard,keypad_mobile,completed,61,61,62,61,Tire 2
+GR10184,male,10,middle school,standard,keypad_mobile,incomplete,60,59,54,58,Tire 2
+GR9228,male,9,diploma,standard,android_device,incomplete,82,75,77,78,Tire 1
+GR10185,male,10,diploma,standard,android_device,incomplete,87,84,85,85,Tire 1
+GR9229,male,9,high school,standard,keypad_mobile,completed,71,60,61,64,Tire 2
+GR7151,male,7,primary school,standard,keypad_mobile,incomplete,66,57,52,58,Tire 2
+GR10186,male,10,diploma,standard,keypad_mobile,completed,71,66,60,66,Tire 2
+GR9230,male,9,diploma,standard,keypad_mobile,incomplete,47,37,35,40,Tire 3
+GR7152,male,7,diploma,standard,keypad_mobile,completed,63,61,61,62,Tire 2
+GR8134,male,8,diploma,free/reduced,keypad_mobile,incomplete,67,62,60,63,Tire 2
+GR7153,male,7,bachelor degree,free/reduced,android_device,completed,49,58,60,56,Tire 2
+GR10187,male,10,primary school,standard,keypad_mobile,incomplete,68,59,62,63,Tire 2
+GR8135,male,8,diploma,standard,keypad_mobile,completed,80,76,64,73,Tire 1
+GR7154,male,7,primary school,standard,keypad_mobile,incomplete,84,77,71,77,Tire 1
+GR10188,male,10,diploma,standard,keypad_mobile,incomplete,75,68,64,69,Tire 2
+GR9231,male,9,diploma,standard,keypad_mobile,incomplete,49,51,43,48,Tire 2
+GR10189,male,10,diploma,free/reduced,keypad_mobile,incomplete,75,66,73,71,Tire 1
+GR10190,male,10,middle school,standard,android_device,completed,89,88,82,86,Tire 1
+GR9232,male,9,high school,free/reduced,keypad_mobile,completed,58,61,52,57,Tire 2
+GR7155,male,7,diploma,free/reduced,keypad_mobile,completed,46,43,41,43,Tire 2
+GR10191,male,10,primary school,free/reduced,keypad_mobile,incomplete,69,66,60,65,Tire 2
+GR10192,male,10,diploma,free/reduced,keypad_mobile,incomplete,53,54,48,52,Tire 2
+GR8136,male,8,bachelor degree,standard,keypad_mobile,completed,66,60,57,61,Tire 2
+GR8137,male,8,bachelor degree,standard,keypad_mobile,completed,63,71,69,68,Tire 2
+GR9233,male,9,primary school,standard,keypad_mobile,completed,59,60,58,59,Tire 2
+GR9234,male,9,high school,standard,android_device,completed,69,58,53,60,Tire 2
+GR9235,male,9,bachelor degree,free/reduced,keypad_mobile,incomplete,61,66,61,63,Tire 2
+GR7156,male,7,bachelor degree,standard,keypad_mobile,completed,66,64,62,64,Tire 2
+GR9236,male,9,diploma,standard,android_device,incomplete,87,100,95,94,Tire 1
+GR10193,male,10,diploma,standard,keypad_mobile,completed,80,68,72,73,Tire 1
+GR8138,male,8,diploma,standard,keypad_mobile,completed,90,78,81,83,Tire 1
+GR9237,male,9,master degree,free/reduced,keypad_mobile,incomplete,79,81,71,77,Tire 1
+GR8139,male,8,primary school,standard,keypad_mobile,incomplete,62,61,57,60,Tire 2
+GR7157,male,7,middle school,free/reduced,android_device,completed,73,67,59,66,Tire 2
+GR7158,male,7,primary school,standard,keypad_mobile,completed,76,67,67,70,Tire 2
+GR7159,male,7,high school,free/reduced,keypad_mobile,completed,48,45,41,45,Tire 2
+GR10194,male,10,primary school,free/reduced,laptop,incomplete,61,47,56,55,Tire 2
+GR9238,male,9,diploma,standard,android_device,incomplete,57,54,56,56,Tire 2
+GR8140,male,8,middle school,standard,android_device,completed,85,84,78,82,Tire 1
+GR7160,male,7,primary school,standard,laptop,incomplete,53,43,43,46,Tire 2
+GR9239,male,9,bachelor degree,standard,android_device,completed,71,74,68,71,Tire 1
+GR10195,male,10,high school,standard,android_device,incomplete,68,64,66,66,Tire 2
+GR7161,male,7,primary school,standard,android_device,incomplete,84,83,78,82,Tire 1
+GR9240,male,9,diploma,standard,laptop,incomplete,74,73,67,71,Tire 1
+GR9241,male,9,bachelor degree,standard,laptop,incomplete,86,83,86,85,Tire 1
+GR8141,male,8,middle school,standard,laptop,completed,74,63,57,65,Tire 2
+GR10196,male,10,primary school,standard,laptop,incomplete,76,71,73,73,Tire 1
+GR9242,male,9,middle school,free/reduced,laptop,incomplete,69,71,65,68,Tire 2
+GR10197,male,10,middle school,free/reduced,laptop,incomplete,62,49,52,54,Tire 2
+GR7162,male,7,high school,standard,laptop,incomplete,84,73,69,75,Tire 1
+GR9243,male,9,middle school,free/reduced,laptop,incomplete,68,63,54,62,Tire 2
+GR9244,male,9,diploma,free/reduced,laptop,completed,64,66,59,63,Tire 2
+GR8142,male,8,diploma,standard,android_device,incomplete,65,65,63,64,Tire 2
+GR10198,male,10,primary school,standard,laptop,incomplete,71,49,52,57,Tire 2
+GR10199,male,10,bachelor degree,standard,laptop,incomplete,69,58,57,61,Tire 2
+GR9245,male,9,high school,standard,laptop,incomplete,61,56,55,57,Tire 2
+GR9246,male,9,middle school,standard,laptop,incomplete,73,66,66,68,Tire 2
+GR8143,male,8,middle school,standard,android_device,completed,63,67,67,66,Tire 2
+GR10200,male,10,diploma,free/reduced,android_device,completed,79,82,80,80,Tire 1
+GR7163,male,7,high school,free/reduced,android_device,incomplete,57,56,54,56,Tire 2
+GR9247,male,9,primary school,free/reduced,android_device,completed,50,48,53,50,Tire 2
+GR9248,male,9,high school,standard,laptop,completed,70,56,51,59,Tire 2
+GR9249,male,9,high school,standard,android_device,incomplete,86,81,80,82,Tire 1
+GR7164,male,7,middle school,free/reduced,laptop,incomplete,65,59,53,59,Tire 2
+GR10201,male,10,primary school,free/reduced,laptop,incomplete,77,62,64,68,Tire 2
+GR7165,male,7,middle school,free/reduced,laptop,completed,79,82,73,78,Tire 1
+GR10202,male,10,middle school,standard,laptop,completed,73,66,62,67,Tire 2
+GR8144,male,8,primary school,free/reduced,laptop,completed,41,39,34,38,Tire 3
+GR9250,male,9,primary school,free/reduced,laptop,incomplete,65,58,49,57,Tire 2
+GR10203,male,10,bachelor degree,free/reduced,laptop,incomplete,68,68,67,68,Tire 2
+GR10204,male,10,high school,free/reduced,laptop,completed,60,57,51,56,Tire 2
+GR8145,male,8,high school,standard,laptop,incomplete,47,46,42,45,Tire 2
+GR10205,male,10,master degree,free/reduced,android_device,incomplete,84,89,90,88,Tire 1
+GR8146,male,8,diploma,standard,laptop,incomplete,81,73,72,75,Tire 1
+GR9251,male,9,bachelor degree,free/reduced,laptop,completed,37,56,47,47,Tire 2
+GR8147,male,8,high school,standard,android_device,completed,72,65,68,68,Tire 2
+GR10206,male,10,primary school,free/reduced,android_device,incomplete,69,60,63,64,Tire 2
+GR7166,male,7,bachelor degree,standard,android_device,incomplete,75,58,62,65,Tire 2
+GR8148,male,8,primary school,free/reduced,laptop,incomplete,54,54,45,51,Tire 2
+GR10207,male,10,bachelor degree,standard,laptop,incomplete,88,78,83,83,Tire 1
+GR8149,male,8,high school,standard,android_device,completed,73,71,68,71,Tire 1
+GR9252,male,9,bachelor degree,free/reduced,laptop,incomplete,53,58,55,55,Tire 2
+GR8150,male,8,middle school,standard,android_device,incomplete,64,53,57,58,Tire 2
+GR8151,male,8,bachelor degree,free/reduced,laptop,incomplete,55,59,54,56,Tire 2
+GR8152,male,8,high school,standard,android_device,incomplete,73,69,68,70,Tire 2
+GR9253,male,9,primary school,standard,laptop,incomplete,91,74,76,80,Tire 1
+GR7167,male,7,high school,free/reduced,android_device,completed,72,67,65,68,Tire 2
+GR7168,male,7,bachelor degree,standard,android_device,completed,76,62,66,68,Tire 2
+GR10208,male,10,master degree,standard,laptop,incomplete,95,81,84,87,Tire 1
+GR8153,male,8,bachelor degree,free/reduced,android_device,incomplete,87,90,88,88,Tire 1
+GR8154,male,8,bachelor degree,free/reduced,laptop,completed,48,51,46,48,Tire 2
+GR9254,male,9,primary school,free/reduced,laptop,completed,68,68,61,66,Tire 2
+GR9255,male,9,high school,standard,laptop,completed,70,74,71,72,Tire 1
+GR8155,male,8,diploma,standard,laptop,completed,48,43,45,45,Tire 2
+GR7169,male,7,diploma,standard,laptop,incomplete,76,71,67,71,Tire 1
+GR8156,male,8,high school,free/reduced,laptop,incomplete,63,48,47,53,Tire 2
+GR9256,male,9,primary school,free/reduced,laptop,incomplete,63,61,54,59,Tire 2
+GR9257,male,9,master degree,standard,laptop,incomplete,79,78,77,78,Tire 1
+GR8157,male,8,primary school,standard,android_device,incomplete,71,75,70,72,Tire 1
+GR10209,male,10,primary school,standard,android_device,incomplete,100,97,99,99,Tire 1
+GR10210,male,10,diploma,standard,laptop,incomplete,61,48,46,52,Tire 2
+GR7170,male,7,high school,standard,laptop,completed,59,52,46,52,Tire 2
+GR8158,male,8,high school,free/reduced,laptop,incomplete,30,24,15,23,Tire 3
+GR7171,male,7,diploma,free/reduced,android_device,completed,79,82,82,81,Tire 1
+GR10211,male,10,primary school,free/reduced,laptop,incomplete,49,57,46,51,Tire 2
+GR7172,male,7,primary school,standard,laptop,incomplete,76,71,72,73,Tire 1
+GR7173,male,7,high school,standard,laptop,incomplete,68,70,66,68,Tire 2
+GR9258,male,9,master degree,free/reduced,laptop,incomplete,54,59,50,54,Tire 2
+GR9259,male,9,high school,standard,android_device,completed,53,52,49,51,Tire 2
+GR9260,male,9,middle school,free/reduced,android_device,completed,56,61,60,59,Tire 2
+GR7174,male,7,middle school,standard,laptop,incomplete,64,50,43,52,Tire 2
+GR8159,male,8,bachelor degree,free/reduced,laptop,incomplete,62,63,56,60,Tire 2
+GR9261,male,9,diploma,standard,android_device,incomplete,51,60,58,56,Tire 2
+GR7175,male,7,primary school,standard,laptop,incomplete,68,60,59,62,Tire 2
+GR10212,male,10,primary school,standard,laptop,incomplete,67,64,70,67,Tire 2
+GR7176,male,7,diploma,standard,android_device,incomplete,62,61,58,60,Tire 2
+GR9262,male,9,high school,standard,android_device,incomplete,75,69,68,71,Tire 1
+GR8160,male,8,diploma,free/reduced,android_device,incomplete,69,70,63,67,Tire 2
+GR7177,male,7,bachelor degree,standard,android_device,incomplete,85,66,71,74,Tire 1
+GR7178,male,7,diploma,standard,android_device,incomplete,97,92,86,92,Tire 1
+GR9263,male,9,high school,standard,android_device,completed,72,67,64,68,Tire 2
+GR7179,male,7,middle school,free/reduced,android_device,completed,78,83,80,80,Tire 1
+GR9264,male,9,master degree,standard,laptop,incomplete,79,72,69,73,Tire 1
+GR8161,male,8,high school,standard,laptop,completed,79,60,65,68,Tire 2
+GR7180,male,7,diploma,standard,laptop,incomplete,53,45,40,46,Tire 2
+GR10213,male,10,middle school,standard,laptop,completed,84,84,80,83,Tire 1
+GR8162,male,8,high school,standard,laptop,incomplete,70,65,60,65,Tire 2
+GR9265,male,9,middle school,free/reduced,laptop,incomplete,79,76,65,73,Tire 1
+GR7181,male,7,bachelor degree,standard,laptop,completed,91,96,92,93,Tire 1
+GR10214,male,10,high school,standard,laptop,incomplete,41,52,51,48,Tire 2
+GR7182,male,7,diploma,free/reduced,android_device,completed,40,55,53,49,Tire 2
+GR8163,male,8,high school,standard,laptop,incomplete,60,68,60,63,Tire 2
+GR9266,male,9,master degree,free/reduced,laptop,incomplete,61,67,66,65,Tire 2
+GR9267,male,9,bachelor degree,standard,android_device,incomplete,96,90,92,93,Tire 1
+GR9268,male,9,primary school,free/reduced,laptop,completed,58,57,54,56,Tire 2
+GR9269,male,9,middle school,standard,laptop,incomplete,75,72,62,70,Tire 2
+GR10215,male,10,middle school,standard,laptop,completed,69,66,61,65,Tire 2
+GR8164,male,8,high school,standard,laptop,incomplete,62,55,54,57,Tire 2
+GR7183,male,7,primary school,standard,android_device,incomplete,61,51,52,55,Tire 2
+GR9270,male,9,bachelor degree,standard,android_device,completed,94,90,91,92,Tire 1
+GR7184,male,7,middle school,standard,laptop,incomplete,71,62,50,61,Tire 2
+GR8165,male,8,primary school,standard,android_device,completed,62,66,68,65,Tire 2
+GR8166,male,8,primary school,standard,laptop,incomplete,47,43,41,44,Tire 2
+GR9271,male,9,diploma,free/reduced,android_device,completed,65,73,68,69,Tire 2
+GR7185,male,7,bachelor degree,standard,laptop,incomplete,68,68,64,67,Tire 2
+GR7186,male,7,middle school,standard,laptop,completed,53,54,48,52,Tire 2
+GR8167,male,8,primary school,free/reduced,laptop,completed,55,55,47,52,Tire 2
+GR9272,male,9,high school,free/reduced,android_device,incomplete,58,51,52,54,Tire 2
+GR10216,male,10,diploma,standard,laptop,incomplete,90,87,85,87,Tire 1
+GR9273,male,9,middle school,free/reduced,android_device,incomplete,51,56,53,53,Tire 2
+GR8168,male,8,primary school,standard,android_device,completed,87,84,86,86,Tire 1
+GR8169,male,8,primary school,standard,android_device,completed,69,77,77,74,Tire 1
+GR10217,male,10,diploma,standard,laptop,completed,80,63,63,69,Tire 2
+GR7187,male,7,primary school,standard,android_device,incomplete,100,96,86,94,Tire 1
+GR9274,male,9,diploma,free/reduced,laptop,completed,77,67,64,69,Tire 2
+GR10218,male,10,diploma,standard,android_device,incomplete,81,72,77,77,Tire 1
+GR9275,male,9,primary school,free/reduced,laptop,incomplete,74,77,73,75,Tire 1
+GR10219,male,10,diploma,free/reduced,laptop,incomplete,52,57,50,53,Tire 2
+GR9276,male,9,middle school,standard,laptop,incomplete,73,66,63,67,Tire 2
+GR7188,male,7,high school,standard,laptop,incomplete,71,74,64,70,Tire 2
+GR7189,male,7,primary school,standard,laptop,incomplete,86,76,74,79,Tire 1
+GR7190,male,7,primary school,standard,android_device,incomplete,85,75,68,76,Tire 1
+GR9277,male,9,primary school,standard,laptop,incomplete,73,74,61,69,Tire 2
+GR8170,male,8,high school,standard,android_device,incomplete,76,62,60,66,Tire 2
+GR8171,male,8,high school,standard,laptop,incomplete,52,48,49,50,Tire 2
+GR9278,male,9,high school,free/reduced,laptop,incomplete,66,66,59,64,Tire 2
+GR8172,male,8,primary school,standard,laptop,completed,66,65,60,64,Tire 2
+GR9279,male,9,primary school,standard,laptop,incomplete,66,59,52,59,Tire 2
+GR9280,male,9,primary school,standard,android_device,incomplete,93,84,90,89,Tire 1
+GR7191,male,7,high school,free/reduced,laptop,incomplete,53,58,44,52,Tire 2
+GR10220,male,10,diploma,free/reduced,laptop,completed,81,75,78,78,Tire 1
+GR9281,male,9,diploma,standard,android_device,completed,73,78,72,74,Tire 1
+GR9282,male,9,high school,standard,laptop,incomplete,50,48,42,47,Tire 2
+GR10221,male,10,primary school,free/reduced,laptop,completed,63,61,60,61,Tire 2
+GR9283,male,9,primary school,standard,laptop,incomplete,53,39,37,43,Tire 2
+GR8173,male,8,bachelor degree,standard,laptop,incomplete,59,54,51,55,Tire 2
+GR7192,male,7,primary school,free/reduced,laptop,completed,93,90,83,89,Tire 1
+GR9284,male,9,master degree,standard,laptop,incomplete,67,57,59,61,Tire 2
+GR8174,male,8,middle school,standard,android_device,incomplete,94,86,87,89,Tire 1
+GR9285,male,9,diploma,standard,laptop,completed,92,79,84,85,Tire 1
+GR8175,male,8,middle school,standard,laptop,completed,68,54,53,58,Tire 2
+GR7193,male,7,bachelor degree,standard,android_device,incomplete,87,84,87,86,Tire 1
+GR9286,male,9,high school,free/reduced,laptop,incomplete,61,60,55,59,Tire 2
+GR9287,male,9,primary school,standard,laptop,incomplete,69,64,68,67,Tire 2
+GR10222,male,10,diploma,free/reduced,laptop,incomplete,77,78,73,76,Tire 1
+GR9288,male,9,master degree,free/reduced,android_device,incomplete,79,77,75,77,Tire 1
+GR10223,male,10,high school,standard,laptop,incomplete,46,34,36,39,Tire 3
+GR10224,male,10,high school,standard,laptop,incomplete,89,87,79,85,Tire 1
+GR9289,male,9,diploma,free/reduced,laptop,completed,58,55,53,55,Tire 2
+GR7194,male,7,bachelor degree,free/reduced,laptop,completed,62,72,65,66,Tire 2
+GR8176,male,8,primary school,standard,laptop,incomplete,58,50,45,51,Tire 2
+GR10225,male,10,master degree,standard,laptop,incomplete,81,81,84,82,Tire 1
+GR7195,male,7,diploma,free/reduced,android_device,incomplete,91,73,80,81,Tire 1
+GR9290,male,9,bachelor degree,standard,android_device,completed,91,81,79,84,Tire 1
+GR7196,male,7,primary school,standard,android_device,completed,81,74,71,75,Tire 1
+GR9291,male,9,diploma,free/reduced,laptop,incomplete,68,65,61,65,Tire 2
+GR10226,male,10,middle school,free/reduced,android_device,incomplete,55,59,59,58,Tire 2
+GR10227,male,10,middle school,standard,laptop,incomplete,55,47,44,49,Tire 2
+GR7197,male,7,middle school,standard,android_device,completed,68,51,57,59,Tire 2
+GR7198,male,7,middle school,free/reduced,laptop,incomplete,55,46,43,48,Tire 2
+GR7199,male,7,primary school,standard,laptop,incomplete,68,72,65,68,Tire 2
+GR10228,male,10,diploma,standard,laptop,completed,81,71,73,75,Tire 1
+GR7200,male,7,bachelor degree,free/reduced,android_device,incomplete,70,68,72,70,Tire 2
+GR7201,male,7,primary school,free/reduced,laptop,incomplete,58,60,57,58,Tire 2
+GR8177,male,8,diploma,free/reduced,android_device,incomplete,58,57,53,56,Tire 2
+GR8178,male,8,primary school,free/reduced,android_device,completed,74,77,76,76,Tire 1
+GR10229,male,10,bachelor degree,standard,laptop,completed,80,73,72,75,Tire 1
+GR10230,male,10,diploma,standard,laptop,completed,72,79,74,75,Tire 1
+GR10231,male,10,high school,standard,laptop,incomplete,69,75,71,72,Tire 1
+GR9292,male,9,middle school,standard,android_device,incomplete,67,73,68,69,Tire 2
+GR7202,male,7,diploma,standard,android_device,completed,94,85,82,87,Tire 1
+GR10232,male,10,middle school,standard,android_device,completed,71,69,68,69,Tire 2
+GR10233,male,10,primary school,standard,laptop,incomplete,55,58,52,55,Tire 2
+GR10234,male,10,middle school,standard,android_device,incomplete,78,81,86,82,Tire 1
+GR8179,male,8,primary school,free/reduced,laptop,incomplete,75,68,65,69,Tire 2
+GR10235,male,10,primary school,standard,laptop,completed,60,63,59,61,Tire 2
+GR9293,male,9,middle school,standard,android_device,incomplete,76,80,73,76,Tire 1
+GR7203,male,7,middle school,standard,android_device,completed,89,84,77,83,Tire 1
+GR10236,male,10,bachelor degree,standard,laptop,incomplete,75,73,74,74,Tire 1
+GR7204,male,7,primary school,standard,laptop,incomplete,69,60,54,61,Tire 2
+GR9294,male,9,high school,standard,laptop,completed,90,75,69,78,Tire 1
+GR9295,male,9,high school,standard,laptop,completed,62,67,58,62,Tire 2
+GR8180,male,8,high school,standard,android_device,incomplete,52,49,46,49,Tire 2
+GR7205,male,7,primary school,free/reduced,laptop,incomplete,75,81,74,77,Tire 1
+GR7206,male,7,middle school,standard,laptop,completed,51,31,36,39,Tire 3
+GR9296,male,9,middle school,standard,laptop,incomplete,64,58,51,58,Tire 2
+GR9297,male,9,master degree,standard,android_device,completed,91,85,85,87,Tire 1
+GR8181,male,8,diploma,standard,laptop,completed,61,42,41,48,Tire 2
+GR10237,male,10,high school,free/reduced,laptop,incomplete,66,74,69,70,Tire 2
+GR9298,male,9,master degree,standard,laptop,incomplete,71,67,67,68,Tire 2
+GR10238,male,10,high school,standard,laptop,incomplete,70,70,70,70,Tire 2
+GR8182,male,8,high school,standard,laptop,incomplete,59,58,47,55,Tire 2
+GR10239,male,10,bachelor degree,free/reduced,android_device,incomplete,61,70,76,69,Tire 2
+GR7207,male,7,high school,free/reduced,laptop,completed,45,47,49,47,Tire 2
+GR7208,male,7,middle school,standard,android_device,incomplete,87,84,76,82,Tire 1
+GR10240,male,10,high school,standard,laptop,completed,64,54,50,56,Tire 2
+GR7209,male,7,primary school,free/reduced,android_device,completed,49,52,51,51,Tire 2
+GR9299,male,9,middle school,standard,laptop,incomplete,62,64,55,60,Tire 2
+GR9300,male,9,diploma,free/reduced,laptop,completed,87,73,72,77,Tire 1
+GR10241,male,10,diploma,standard,laptop,incomplete,80,75,69,75,Tire 1
+GR10242,male,10,bachelor degree,free/reduced,android_device,completed,39,42,38,40,Tire 3
+GR9301,male,9,diploma,standard,laptop,completed,97,93,91,94,Tire 1
+GR9302,male,9,high school,free/reduced,laptop,completed,59,53,52,55,Tire 2
+GR10243,male,10,primary school,standard,android_device,incomplete,82,82,88,84,Tire 1
+GR7210,male,7,bachelor degree,standard,laptop,incomplete,64,60,58,61,Tire 2
+GR7211,male,7,high school,standard,laptop,incomplete,73,64,57,65,Tire 2
+GR10244,male,10,primary school,standard,laptop,completed,81,82,84,82,Tire 1
+GR10245,male,10,bachelor degree,free/reduced,laptop,completed,55,46,44,48,Tire 2
+GR9303,male,9,diploma,free/reduced,laptop,completed,49,51,51,50,Tire 2
+GR10246,male,10,high school,free/reduced,laptop,incomplete,44,51,48,48,Tire 2
+GR9304,male,9,primary school,free/reduced,laptop,incomplete,80,64,66,70,Tire 2
+GR7212,male,7,master degree,standard,laptop,completed,90,85,84,86,Tire 1
+GR8183,male,8,diploma,standard,android_device,incomplete,82,84,78,81,Tire 1
+GR9305,male,9,middle school,standard,laptop,incomplete,57,61,54,57,Tire 2
+GR8184,male,8,high school,free/reduced,laptop,incomplete,36,29,27,31,Tire 3
+GR10247,male,10,middle school,standard,android_device,incomplete,88,74,75,79,Tire 1
+GR8185,male,8,high school,standard,laptop,completed,57,48,51,52,Tire 2
+GR7213,male,7,middle school,standard,laptop,completed,82,67,61,70,Tire 2
+GR7214,male,7,diploma,free/reduced,android_device,incomplete,78,74,72,75,Tire 1
+GR10248,male,10,diploma,standard,android_device,completed,67,54,63,61,Tire 2
+GR7215,male,7,diploma,free/reduced,laptop,incomplete,90,90,82,87,Tire 1
+GR9306,male,9,bachelor degree,standard,android_device,completed,63,64,66,64,Tire 2
+GR9307,male,9,high school,free/reduced,laptop,incomplete,54,72,59,62,Tire 2
+GR7216,male,7,bachelor degree,standard,android_device,incomplete,70,64,70,68,Tire 2
+GR9308,male,9,primary school,free/reduced,android_device,incomplete,67,74,70,70,Tire 1
+GR10249,male,10,master degree,standard,laptop,incomplete,85,84,89,86,Tire 1
+GR10250,male,10,primary school,standard,laptop,incomplete,88,77,77,81,Tire 1
+GR9309,male,9,bachelor degree,free/reduced,android_device,incomplete,70,75,74,73,Tire 1
+GR7217,male,7,bachelor degree,standard,android_device,incomplete,100,100,100,100,Tire 1
+GR10251,male,10,bachelor degree,free/reduced,laptop,incomplete,50,42,48,47,Tire 2
+GR7218,male,7,middle school,standard,android_device,incomplete,74,64,60,66,Tire 2
+GR9310,male,9,diploma,standard,android_device,completed,98,87,90,92,Tire 1
+GR10252,male,10,high school,free/reduced,laptop,incomplete,69,70,67,69,Tire 2
+GR10253,male,10,high school,standard,laptop,incomplete,72,66,66,68,Tire 2
+GR7219,male,7,diploma,free/reduced,laptop,completed,64,56,52,57,Tire 2
+GR9311,male,9,master degree,free/reduced,android_device,incomplete,72,66,72,70,Tire 2
+GR7220,male,7,diploma,free/reduced,android_device,incomplete,46,43,44,44,Tire 2
+GR8186,male,8,primary school,standard,android_device,incomplete,91,96,91,93,Tire 1
+GR10254,male,10,high school,free/reduced,laptop,incomplete,74,70,69,71,Tire 1
+GR9312,male,9,high school,standard,laptop,completed,81,66,64,70,Tire 1
+GR7221,male,7,diploma,standard,laptop,completed,67,57,53,59,Tire 2
+GR10255,male,10,primary school,free/reduced,laptop,incomplete,62,57,62,60,Tire 2
+GR7222,male,7,middle school,free/reduced,android_device,incomplete,61,62,61,61,Tire 2
+GR9313,male,9,high school,standard,android_device,completed,58,52,54,55,Tire 2
+GR8187,male,8,high school,standard,laptop,completed,82,82,80,81,Tire 1
+GR9314,male,9,primary school,standard,laptop,incomplete,84,87,81,84,Tire 1
+GR10256,male,10,diploma,free/reduced,android_device,completed,61,71,73,68,Tire 2
+GR9315,male,9,high school,standard,laptop,incomplete,75,81,71,76,Tire 1
+GR8188,male,8,middle school,free/reduced,android_device,incomplete,49,50,52,50,Tire 2
+GR10257,male,10,primary school,free/reduced,laptop,incomplete,70,63,58,64,Tire 2
+GR8189,male,8,primary school,free/reduced,android_device,completed,60,62,60,61,Tire 2
+GR7223,male,7,high school,standard,laptop,completed,94,73,71,79,Tire 1
+GR9316,male,9,primary school,standard,laptop,incomplete,63,63,60,62,Tire 2
+GR7224,male,7,diploma,standard,laptop,incomplete,72,57,62,64,Tire 2
+GR9317,male,9,middle school,standard,android_device,incomplete,78,72,69,73,Tire 1
+GR7225,male,7,middle school,standard,android_device,completed,66,68,64,66,Tire 2
+GR7226,male,7,high school,standard,laptop,incomplete,57,51,54,54,Tire 2
+GR10258,male,10,primary school,standard,android_device,completed,85,81,85,84,Tire 1
+GR7227,male,7,middle school,standard,android_device,completed,81,75,76,77,Tire 1
+GR8190,male,8,middle school,standard,android_device,completed,79,85,86,83,Tire 1
+GR10259,male,10,middle school,standard,android_device,incomplete,77,68,69,71,Tire 1
+GR10260,male,10,primary school,standard,laptop,incomplete,72,57,58,62,Tire 2
+GR7228,male,7,high school,free/reduced,android_device,incomplete,86,81,75,81,Tire 1
+GR7229,male,7,high school,standard,laptop,completed,63,63,62,63,Tire 2
+GR9318,male,9,diploma,standard,laptop,incomplete,62,65,58,62,Tire 2
+GR9319,male,9,high school,free/reduced,laptop,completed,62,55,55,57,Tire 2
+GR10261,male,10,high school,standard,android_device,completed,55,41,48,48,Tire 2
+GR10262,male,10,middle school,standard,laptop,incomplete,81,78,78,79,Tire 1
+,,,,,,,,,,,
+,,,,,,,,,,,
