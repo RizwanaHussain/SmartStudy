@@ -12,14 +12,13 @@
 
 <a name="intro"></a> 
 ## Introduction
-***
+
 <img align="left" src="https://github.com/RizwanaHussain/SmartStudy/assets/139431006/41b672b0-00f9-4fe4-a88f-aebf0554cfb9" alt="My Image">
 It is my utmost pleasure to present to you the introduction to my capstone project for the Coursera Google Data Analytics program, Track 3. Throughout this journey, I have had the opportunity to apply my acquired knowledge and skills in data analytics to work on a hypothetical dataset of my choice. In this repository, I am sharing the highlights of my capstone project and the exciting insights I have discovered.
 For my capstone project, I wanted to delve into a dataset that not only piqued my interest but also aligned with my passion for education domain. With this in mind, I selected a hypothetical dataset that focuses on tracking and analyzing student learning dataset to ensure the implementation of “SmartStudy: Tailored Learning for Every Student.”.
 
 <a name="scenario"></a> 
 ## The scenario  
-***
 
 <img align="left" src="https://github.com/RizwanaHussain/SmartStudy/assets/139431006/d305bd38-b7d0-49e1-80c7-1ed4e2808517" alt="My Image">The Honey Bee School of Excellence is a leading educational institution known for its commitment to providing quality education and fostering the holistic development of its students. As part of their ongoing efforts to enhance the learning experience, the school administration is considering the implementation of “SmartStudy: Tailored Learning for Every Student.” This innovative program aims to support students’ learning journey through after-school work completion tracking and personalized assistance.
 To assess the potential impact and effectiveness of the SmartStudy program, the school administration has decided to conduct an exploratory data analysis (EDA) on student performance and work completion data. The objective is to uncover insights and draw conclusions that can guide the decision-making process.
@@ -31,7 +30,7 @@ As the EDA progresses, the team segments the data to further investigate perform
 
 <a name="code-viz"></a> 
 ## Code and Visualizations Using R Programming
-***
+
 ### Load packages
 
 Start by installing your required package. If you have already installed and loaded tidyverse in this session, feel free to skip the code chunks in this step.
@@ -211,7 +210,7 @@ This code chunk filters the data to exclude rows with missing values and creates
 
 <a name="insights"></a> 
 ## Insights & Recommendations
-***
+
 ### Grade-wise Distribution of Student Tiers:
 1. The graph illustrates the distribution of student tiers (Tier 1, Tier 2, Tier3) across grades.
 2. Grade 9 had the highest number of students in all tiers, indicating the need for targeted interventions to support learning in that grade.
@@ -236,7 +235,7 @@ This code chunk filters the data to exclude rows with missing values and creates
    
 <a name="Conclusion"></a>        
 ## Conclusion
-***
+
   Based on the findings from the EDA, the team concludes that implementing the SmartStudy program could greatly benefit the students at Honey Bee School of Excellence. By leveraging after-school work completion tracking and personalized support, the program can address individual learning needs, improve student performance, and enhance overall academic outcomes.
   
 The team proposes a tailored smart study platform that combines elements of gamification, personalized study plans, and interactive learning modules. The platform would provide students with real-time feedback on their work completion, suggest targeted study materials, and offer additional support based on their individual progress and learning preferences.
