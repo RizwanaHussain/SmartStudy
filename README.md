@@ -1,4 +1,3 @@
-
 # <p align=center>SmartStudy: Tailored Learning for Every Student </p>
 
 ![image](https://github.com/RizwanaHussain/SmartStudy/assets/139431006/a459578c-9a47-4986-9656-6b2dd9b3afd5)
