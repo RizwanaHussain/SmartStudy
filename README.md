@@ -1,6 +1,6 @@
 # <p align=center>SmartStudy: Tailored Learning for Every Student </p>
 
-![image](https://github.com/RizwanaHussain/SmartStudy/assets/139431006/a459578c-9a47-4986-9656-6b2dd9b3afd5)
+![theme](https://github.com/RizwanaHussain/SmartStudy/assets/139431006/1eb83681-276d-49ba-9531-0fe765fff72f)
 
 ## Table of Contents
 1. [Introduction](#intro)
@@ -12,14 +12,15 @@
 <a name="intro"></a> 
 ## Introduction
 
-<img align="left" src="https://github.com/RizwanaHussain/SmartStudy/assets/139431006/41b672b0-00f9-4fe4-a88f-aebf0554cfb9" alt="My Image">
+<img align="left" src="https://github.com/RizwanaHussain/SmartStudy/assets/139431006/b37acfd8-30ba-40b7-ac20-588a78b9d30a" alt="Google">
 It is my utmost pleasure to present to you the introduction to my capstone project for the Coursera Google Data Analytics program, Track 3. Throughout this journey, I have had the opportunity to apply my acquired knowledge and skills in data analytics to work on a hypothetical dataset of my choice. In this repository, I am sharing the highlights of my capstone project and the exciting insights I have discovered.
 For my capstone project, I wanted to delve into a dataset that not only piqued my interest but also aligned with my passion for education domain. With this in mind, I selected a hypothetical dataset that focuses on tracking and analyzing student learning dataset to ensure the implementation of “SmartStudy: Tailored Learning for Every Student.”.
 
 <a name="scenario"></a> 
 ## The scenario  
 
-<img align="left" src="https://github.com/RizwanaHussain/SmartStudy/assets/139431006/d305bd38-b7d0-49e1-80c7-1ed4e2808517" alt="My Image">The Honey Bee School of Excellence is a leading educational institution known for its commitment to providing quality education and fostering the holistic development of its students. As part of their ongoing efforts to enhance the learning experience, the school administration is considering the implementation of “SmartStudy: Tailored Learning for Every Student.” This innovative program aims to support students’ learning journey through after-school work completion tracking and personalized assistance.
+<img align="left" src="https://github.com/RizwanaHussain/SmartStudy/assets/139431006/0b0c2e2f-7f94-4863-891d-2e2d5dbe9442" alt="My Image">
+The Honey Bee School of Excellence is a leading educational institution known for its commitment to providing quality education and fostering the holistic development of its students. As part of their ongoing efforts to enhance the learning experience, the school administration is considering the implementation of “SmartStudy: Tailored Learning for Every Student.” This innovative program aims to support students’ learning journey through after-school work completion tracking and personalized assistance.
 To assess the potential impact and effectiveness of the SmartStudy program, the school administration has decided to conduct an exploratory data analysis (EDA) on student performance and work completion data. The objective is to uncover insights and draw conclusions that can guide the decision-making process.
 The school administration has provided a dataset containing information about student marks, work completion records, demographic details, and other relevant factors. The dataset is comprehensive, capturing data from multiple grade levels and diverse student backgrounds.
 To begin the EDA process, the school administration assigns a team of data analysts and education experts. They start by importing the dataset and conducting data cleaning procedures, such as handling missing values and ensuring data consistency.
@@ -132,8 +133,7 @@ The pivot_longer function from the tidyr package is used in this code chunk to r
     
      print(plot)
 
-
-![image](https://github.com/RizwanaHussain/SmartStudy/assets/139431006/b5c1fa0c-7a41-4652-b073-1e218236bd82)
+![image](https://github.com/RizwanaHussain/SmartStudy/assets/139431006/98af31c8-2577-42b4-8662-600a702a2491)
 
 This code chunk creates a bar plot using ggplot2 to visualize the count of students in each tier for each grade. It uses the ggplot function and various geom_ layers to construct the plot, including bars and text labels. The plot is customized with labels, colors, and themes.
 
@@ -145,8 +145,8 @@ This code chunk creates a bar plot using ggplot2 to visualize the count of stude
      ggplot(filtered_data, aes(x = grade, fill = work_completion)) +
        geom_bar() + labs(x = "Grade", y = "Student Count") +
        ggtitle("Grade-wise Work Completion")
- 
-![image](https://github.com/RizwanaHussain/SmartStudy/assets/139431006/fe37f090-9b55-42e8-87c7-24818906345a)
+
+ ![image](https://github.com/RizwanaHussain/SmartStudy/assets/139431006/7b067476-78bc-4532-8a9d-de728a284213)
 
 In this code chunk, the filter function from the dplyr package is used to remove rows with missing values for the grade and work_completion variables. The !is.na(grade) and !is.na(work_completion) conditions ensure that only rows without any missing values in these two variables are kept in the filtered_data dataframe.
 
@@ -171,7 +171,7 @@ This code chunk calculates the count of students for each work completion status
         labs(x = "Grade", y = "Student Count") +
        ggtitle("Student Tier-wise Work Completion")
   
-![image](https://github.com/RizwanaHussain/SmartStudy/assets/139431006/d793df57-9e48-443d-a09c-e895f44b0caa)
+![image](https://github.com/RizwanaHussain/SmartStudy/assets/139431006/a92a597a-2141-490a-b8e1-469d49ffd318)
 
 This code chunk creates a bar plot to visualize the work completion of students in each tier. It uses ggplot2 and includes additional geom_text layer to display the count labels on top of the bars.
 
@@ -194,7 +194,7 @@ In this code chunk, the count of students for each grade and available device ca
       labs(x = "Grade", y = "Student Count", fill = "Available Devices") +
       ggtitle("Grade-Wise Distribution of Available Devices")
  
-![image](https://github.com/RizwanaHussain/SmartStudy/assets/139431006/4a08fded-3279-4d09-abdb-e72b018d9919)
+![image](https://github.com/RizwanaHussain/SmartStudy/assets/139431006/74dc3809-9140-4c09-a36f-b292fdee9a76)
 
 In this code chunk, the complete.cases function is used to filter out rows in the data dataframe that have missing values in the “grade” and “available_device” columns. The resulting filtered data is stored in the data_filtered dataframe.
 
