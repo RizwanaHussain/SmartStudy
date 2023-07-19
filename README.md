@@ -1,11 +1,14 @@
 # SmartStudy: Tailored Learning for Every Student
 
+![image](https://github.com/RizwanaHussain/SmartStudy/assets/139431006/a459578c-9a47-4986-9656-6b2dd9b3afd5)
+
  
 ## Introduction
+![image](https://github.com/RizwanaHussain/SmartStudy/assets/139431006/41b672b0-00f9-4fe4-a88f-aebf0554cfb9)
 It is my utmost pleasure to present to you the introduction to my capstone project for the Coursera Google Data Analytics program, Track 3. Throughout this journey, I have had the opportunity to apply my acquired knowledge and skills in data analytics to work on a hypothetical dataset of my choice. In this repository, I am sharing the highlights of my capstone project and the exciting insights I have discovered.
 For my capstone project, I wanted to delve into a dataset that not only piqued my interest but also aligned with my passion for education domain. With this in mind, I selected a hypothetical dataset that focuses on tracking and analyzing student learning dataset to ensure the implementation of “SmartStudy: Tailored Learning for Every Student.”.
 
-## The scenario                                                                                                                                                                                                   
+## The scenario                                                                                                                                                   ![image](https://github.com/RizwanaHussain/SmartStudy/assets/139431006/aa42383b-1b08-42e1-94e1-73a818055157)
 The Honey Bee School of Excellence is a leading educational institution known for its commitment to providing quality education and fostering the holistic development of its students. As part of their ongoing efforts to enhance the learning experience, the school administration is considering the implementation of “SmartStudy: Tailored Learning for Every Student.” This innovative program aims to support students’ learning journey through after-school work completion tracking and personalized assistance.
 To assess the potential impact and effectiveness of the SmartStudy program, the school administration has decided to conduct an exploratory data analysis (EDA) on student performance and work completion data. The objective is to uncover insights and draw conclusions that can guide the decision-making process.
 The school administration has provided a dataset containing information about student marks, work completion records, demographic details, and other relevant factors. The dataset is comprehensive, capturing data from multiple grade levels and diverse student backgrounds.
