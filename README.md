@@ -8,7 +8,7 @@
 2. [The scenario ](#scenario)
 3. [Code and Visualizations Using R Programming](#code-viz)
 4. [Insights & Recommendations](#insights)
-5. [Conclusion](#Conclusion)
+5. [Conclusion](#conclusion)
 
 <a name="intro"></a> 
 ## Introduction
@@ -233,7 +233,7 @@ This code chunk filters the data to exclude rows with missing values and creates
 3. Ensuring equitable access to devices, especially in grades with lower availability, can facilitate students’ access to SmartStudy’s tailored learning
    resources.
    
-<a name="Conclusion"></a>        
+<a name="conclusion"></a>        
 ## Conclusion
 
   Based on the findings from the EDA, the team concludes that implementing the SmartStudy program could greatly benefit the students at Honey Bee School of Excellence. By leveraging after-school work completion tracking and personalized support, the program can address individual learning needs, improve student performance, and enhance overall academic outcomes.
